@@ -1,0 +1,1017 @@
+2017-11-27 14:02:32,938 1 INFO ? odoo: Odoo version 11.0-20171030
+2017-11-27 14:02:32,938 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf
+2017-11-27 14:02:32,938 1 INFO ? odoo: addons paths: ['/var/lib/odoo/addons/11.0', '/mnt/extra-addons', '/usr/lib/python2.7/dist-packages/odoo/addons', '/usr/lib/python3/dist-packages/odoo/addons']
+2017-11-27 14:02:32,939 1 INFO ? odoo: database: odoo@db:5432
+2017-11-27 14:02:33,019 1 WARNING ? odoo.service.server: 'watchdog' module not installed. Code autoreload feature is disabled
+2017-11-27 14:02:33,020 1 INFO ? odoo.service.server: HTTP service (werkzeug) running on 0.0.0.0:8069
+2017-11-27 14:02:33,424 1 INFO ? odoo.addons.base.ir.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf
+2017-11-27 15:58:50,495 1 INFO ? odoo.service.server: Initiating shutdown
+2017-11-27 15:58:51,536 1 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown.
+2017-11-28 06:25:25,094 1 INFO ? odoo: Odoo version 11.0-20171030
+2017-11-28 06:25:25,105 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf
+2017-11-28 06:25:25,105 1 INFO ? odoo: addons paths: ['/var/lib/odoo/addons/11.0', '/mnt/extra-addons', '/usr/lib/python2.7/dist-packages/odoo/addons', '/usr/lib/python3/dist-packages/odoo/addons']
+2017-11-28 06:25:25,106 1 INFO ? odoo: database: odoo@db:5432
+2017-11-28 06:25:25,158 1 WARNING ? odoo.service.server: 'watchdog' module not installed. Code autoreload feature is disabled
+2017-11-28 06:25:25,159 1 INFO ? odoo.service.server: HTTP service (werkzeug) running on 0.0.0.0:8069
+2017-11-28 06:25:25,728 1 INFO ? odoo.addons.base.ir.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf
+2017-11-28 06:30:10,113 1 INFO ? odoo.service.server: Initiating shutdown
+2017-11-28 06:30:10,113 1 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown.
+2017-11-28 06:30:14,125 1 INFO ? odoo: Odoo version 11.0-20171030
+2017-11-28 06:30:14,125 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf
+2017-11-28 06:30:14,125 1 INFO ? odoo: addons paths: ['/var/lib/odoo/addons/11.0', '/mnt/extra-addons', '/usr/lib/python2.7/dist-packages/odoo/addons', '/usr/lib/python3/dist-packages/odoo/addons']
+2017-11-28 06:30:14,126 1 INFO ? odoo: database: odoo@db:5432
+2017-11-28 06:30:14,133 1 WARNING ? odoo.service.server: 'watchdog' module not installed. Code autoreload feature is disabled
+2017-11-28 06:30:14,133 1 INFO ? odoo.service.server: HTTP service (werkzeug) running on 0.0.0.0:8069
+2017-11-28 06:30:14,205 1 INFO ? odoo.addons.base.ir.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf
+2017-11-28 06:30:59,361 1 INFO ? odoo.http: Generating nondb routing
+2017-11-28 06:30:59,395 1 INFO ? werkzeug: 172.23.0.1 - - [28/Nov/2017 06:30:59] "GET / HTTP/1.1" 200 -
+2017-11-28 06:30:59,456 1 INFO ? werkzeug: 172.23.0.1 - - [28/Nov/2017 06:30:59] "GET /favicon.ico HTTP/1.1" 404 -
+2017-11-28 06:30:59,462 1 INFO ? werkzeug: 172.23.0.1 - - [28/Nov/2017 06:30:59] "GET /web HTTP/1.1" 303 -
+2017-11-28 06:30:59,572 1 INFO ? werkzeug: 172.23.0.1 - - [28/Nov/2017 06:30:59] "GET /web/database/selector HTTP/1.1" 200 -
+2017-11-28 06:30:59,602 1 INFO ? werkzeug: 172.23.0.1 - - [28/Nov/2017 06:30:59] "GET /web/static/lib/bootstrap/css/bootstrap.css HTTP/1.1" 404 -
+2017-11-28 06:30:59,605 1 INFO ? werkzeug: 172.23.0.1 - - [28/Nov/2017 06:30:59] "GET /web/static/lib/bootstrap/js/dropdown.js HTTP/1.1" 404 -
+2017-11-28 06:30:59,608 1 INFO ? werkzeug: 172.23.0.1 - - [28/Nov/2017 06:30:59] "GET /web/static/lib/fontawesome/css/font-awesome.css HTTP/1.1" 404 -
+2017-11-28 06:30:59,611 1 INFO ? werkzeug: 172.23.0.1 - - [28/Nov/2017 06:30:59] "GET /web/static/lib/bootstrap/js/tooltip.js HTTP/1.1" 404 -
+2017-11-28 06:30:59,612 1 INFO ? werkzeug: 172.23.0.1 - - [28/Nov/2017 06:30:59] "GET /web/static/lib/jquery/jquery.js HTTP/1.1" 404 -
+2017-11-28 06:30:59,614 1 INFO ? werkzeug: 172.23.0.1 - - [28/Nov/2017 06:30:59] "GET /web/static/lib/bootstrap/js/modal.js HTTP/1.1" 404 -
+2017-11-28 06:30:59,621 1 INFO ? werkzeug: 172.23.0.1 - - [28/Nov/2017 06:30:59] "GET /web/static/src/img/logo2.png HTTP/1.1" 404 -
+2017-11-28 06:30:59,623 1 INFO ? werkzeug: 172.23.0.1 - - [28/Nov/2017 06:30:59] "GET /web/static/lib/bootstrap/js/tooltip.js HTTP/1.1" 404 -
+2017-11-28 06:30:59,631 1 INFO ? werkzeug: 172.23.0.1 - - [28/Nov/2017 06:30:59] "GET /web/static/lib/bootstrap/js/dropdown.js HTTP/1.1" 404 -
+2017-11-28 06:31:00,138 1 INFO ? werkzeug: 172.23.0.1 - - [28/Nov/2017 06:31:00] "GET /web/static/src/img/favicon.ico HTTP/1.1" 404 -
+2017-11-28 06:31:09,259 1 INFO ? werkzeug: 172.23.0.1 - - [28/Nov/2017 06:31:09] "GET /web/database/selector HTTP/1.1" 200 -
+2017-11-28 06:31:09,303 1 INFO ? werkzeug: 172.23.0.1 - - [28/Nov/2017 06:31:09] "GET /web/static/lib/fontawesome/css/font-awesome.css HTTP/1.1" 404 -
+2017-11-28 06:31:09,303 1 INFO ? werkzeug: 172.23.0.1 - - [28/Nov/2017 06:31:09] "GET /web/static/lib/bootstrap/css/bootstrap.css HTTP/1.1" 404 -
+2017-11-28 06:31:09,304 1 INFO ? werkzeug: 172.23.0.1 - - [28/Nov/2017 06:31:09] "GET /web/static/lib/bootstrap/js/modal.js HTTP/1.1" 404 -
+2017-11-28 06:31:09,304 1 INFO ? werkzeug: 172.23.0.1 - - [28/Nov/2017 06:31:09] "GET /web/static/lib/jquery/jquery.js HTTP/1.1" 404 -
+2017-11-28 06:31:09,304 1 INFO ? werkzeug: 172.23.0.1 - - [28/Nov/2017 06:31:09] "GET /web/static/lib/bootstrap/js/dropdown.js HTTP/1.1" 404 -
+2017-11-28 06:31:09,304 1 INFO ? werkzeug: 172.23.0.1 - - [28/Nov/2017 06:31:09] "GET /web/static/lib/bootstrap/js/tooltip.js HTTP/1.1" 404 -
+2017-11-28 06:31:09,317 1 INFO ? werkzeug: 172.23.0.1 - - [28/Nov/2017 06:31:09] "GET /web/static/lib/bootstrap/js/modal.js HTTP/1.1" 404 -
+2017-11-28 06:31:09,319 1 INFO ? werkzeug: 172.23.0.1 - - [28/Nov/2017 06:31:09] "GET /web/static/src/img/logo2.png HTTP/1.1" 404 -
+2017-11-28 06:31:09,324 1 INFO ? werkzeug: 172.23.0.1 - - [28/Nov/2017 06:31:09] "GET /web/static/lib/bootstrap/js/tooltip.js HTTP/1.1" 404 -
+2017-11-28 06:31:09,333 1 INFO ? werkzeug: 172.23.0.1 - - [28/Nov/2017 06:31:09] "GET /web/static/lib/bootstrap/js/dropdown.js HTTP/1.1" 404 -
+2017-11-28 06:31:09,383 1 INFO ? werkzeug: 172.23.0.1 - - [28/Nov/2017 06:31:09] "GET /web/static/src/img/favicon.ico HTTP/1.1" 404 -
+2017-11-28 06:31:12,748 1 INFO ? odoo.service.server: Initiating shutdown
+2017-11-28 06:31:12,749 1 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown.
+2017-11-28 06:36:38,555 1 INFO ? odoo: Odoo version 11.0-20171030
+2017-11-28 06:36:38,555 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf
+2017-11-28 06:36:38,555 1 INFO ? odoo: addons paths: ['/var/lib/odoo/addons/11.0', '/mnt/extra-addons', '/usr/lib/python2.7/dist-packages/odoo/addons', '/usr/lib/python3/dist-packages/odoo/addons']
+2017-11-28 06:36:38,555 1 INFO ? odoo: database: odoo@db:5432
+2017-11-28 06:36:38,564 1 WARNING ? odoo.service.server: 'watchdog' module not installed. Code autoreload feature is disabled
+2017-11-28 06:36:38,564 1 INFO ? odoo.service.server: HTTP service (werkzeug) running on 0.0.0.0:8069
+2017-11-28 06:36:38,641 1 INFO ? odoo.addons.base.ir.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf
+2017-11-28 06:36:56,050 1 INFO ? odoo.service.server: Initiating shutdown
+2017-11-28 06:36:56,051 1 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown.
+2017-11-28 06:37:05,249 1 INFO ? odoo: Odoo version 11.0-20171030
+2017-11-28 06:37:05,250 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf
+2017-11-28 06:37:05,250 1 INFO ? odoo: addons paths: ['/var/lib/odoo/addons/11.0', '/mnt/extra-addons', '/usr/lib/python2.7/dist-packages/odoo/addons', '/usr/lib/python3/dist-packages/odoo/addons']
+2017-11-28 06:37:05,250 1 INFO ? odoo: database: odoo@db:5432
+2017-11-28 06:37:05,257 1 WARNING ? odoo.service.server: 'watchdog' module not installed. Code autoreload feature is disabled
+2017-11-28 06:37:05,258 1 INFO ? odoo.service.server: HTTP service (werkzeug) running on 0.0.0.0:8069
+2017-11-28 06:37:05,334 1 INFO ? odoo.addons.base.ir.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf
+2017-11-28 06:37:21,243 1 INFO ? odoo.service.server: Initiating shutdown
+2017-11-28 06:37:21,244 1 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown.
+2017-11-28 06:38:00,613 1 INFO ? odoo: Odoo version 11.0-20171030
+2017-11-28 06:38:00,613 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf
+2017-11-28 06:38:00,613 1 INFO ? odoo: addons paths: ['/var/lib/odoo/addons/11.0', '/mnt/extra-addons', '/usr/lib/python2.7/dist-packages/odoo/addons', '/usr/lib/python3/dist-packages/odoo/addons']
+2017-11-28 06:38:00,613 1 INFO ? odoo: database: odoo@db:5432
+2017-11-28 06:38:00,621 1 WARNING ? odoo.service.server: 'watchdog' module not installed. Code autoreload feature is disabled
+2017-11-28 06:38:00,621 1 INFO ? odoo.service.server: HTTP service (werkzeug) running on 0.0.0.0:8069
+2017-11-28 06:38:00,696 1 INFO ? odoo.addons.base.ir.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf
+2017-11-28 06:38:13,486 1 INFO ? odoo.http: Generating nondb routing
+2017-11-28 06:38:13,497 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:38:13] "GET / HTTP/1.1" 200 -
+2017-11-28 06:38:13,560 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:38:13] "GET /favicon.ico HTTP/1.1" 404 -
+2017-11-28 06:38:13,562 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:38:13] "GET /web HTTP/1.1" 303 -
+2017-11-28 06:38:13,637 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:38:13] "GET /web/database/selector HTTP/1.1" 200 -
+2017-11-28 06:38:13,671 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:38:13] "GET /web/static/lib/jquery/jquery.js HTTP/1.1" 404 -
+2017-11-28 06:38:13,699 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:38:13] "GET /web/static/lib/bootstrap/js/modal.js HTTP/1.1" 404 -
+2017-11-28 06:38:13,702 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:38:13] "GET /web/static/lib/fontawesome/css/font-awesome.css HTTP/1.1" 404 -
+2017-11-28 06:38:13,706 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:38:13] "GET /web/static/lib/bootstrap/css/bootstrap.css HTTP/1.1" 404 -
+2017-11-28 06:38:13,707 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:38:13] "GET /web/static/lib/bootstrap/js/dropdown.js HTTP/1.1" 404 -
+2017-11-28 06:38:13,708 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:38:13] "GET /web/static/lib/bootstrap/js/tooltip.js HTTP/1.1" 404 -
+2017-11-28 06:38:13,740 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:38:13] "GET /web/static/src/img/logo2.png HTTP/1.1" 404 -
+2017-11-28 06:38:13,747 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:38:13] "GET /web/static/lib/bootstrap/js/modal.js HTTP/1.1" 404 -
+2017-11-28 06:38:13,772 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:38:13] "GET /web/static/lib/bootstrap/js/tooltip.js HTTP/1.1" 404 -
+2017-11-28 06:38:13,798 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:38:13] "GET /web/static/lib/bootstrap/js/dropdown.js HTTP/1.1" 404 -
+2017-11-28 06:38:13,936 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:38:13] "GET /web/static/src/img/favicon.ico HTTP/1.1" 404 -
+2017-11-28 06:38:18,517 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:38:18] "GET /web/static/lib/bootstrap/css/bootstrap.css HTTP/1.1" 404 -
+2017-11-28 06:38:18,520 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:38:18] "GET /web/static/lib/fontawesome/css/font-awesome.css HTTP/1.1" 404 -
+2017-11-28 06:38:55,264 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:38:55] "GET /web/database/selector HTTP/1.1" 200 -
+2017-11-28 06:38:55,298 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:38:55] "GET /web/static/lib/bootstrap/css/bootstrap.css HTTP/1.1" 404 -
+2017-11-28 06:38:55,299 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:38:55] "GET /web/static/lib/fontawesome/css/font-awesome.css HTTP/1.1" 404 -
+2017-11-28 06:38:55,299 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:38:55] "GET /web/static/lib/bootstrap/js/tooltip.js HTTP/1.1" 404 -
+2017-11-28 06:38:55,301 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:38:55] "GET /web/static/lib/bootstrap/js/modal.js HTTP/1.1" 404 -
+2017-11-28 06:38:55,302 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:38:55] "GET /web/static/lib/bootstrap/js/dropdown.js HTTP/1.1" 404 -
+2017-11-28 06:38:55,303 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:38:55] "GET /web/static/lib/jquery/jquery.js HTTP/1.1" 404 -
+2017-11-28 06:38:55,313 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:38:55] "GET /web/static/src/img/logo2.png HTTP/1.1" 404 -
+2017-11-28 06:38:55,315 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:38:55] "GET /web/static/lib/bootstrap/js/modal.js HTTP/1.1" 404 -
+2017-11-28 06:38:55,325 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:38:55] "GET /web/static/lib/bootstrap/js/tooltip.js HTTP/1.1" 404 -
+2017-11-28 06:38:55,332 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:38:55] "GET /web/static/lib/bootstrap/js/dropdown.js HTTP/1.1" 404 -
+2017-11-28 06:38:55,403 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:38:55] "GET /web/static/src/img/favicon.ico HTTP/1.1" 404 -
+2017-11-28 06:42:29,342 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:42:29] "GET /web/database/selector HTTP/1.1" 200 -
+2017-11-28 06:42:29,377 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:42:29] "GET /web/static/lib/bootstrap/css/bootstrap.css HTTP/1.1" 404 -
+2017-11-28 06:42:29,382 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:42:29] "GET /web/static/lib/bootstrap/js/dropdown.js HTTP/1.1" 404 -
+2017-11-28 06:42:29,382 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:42:29] "GET /web/static/lib/bootstrap/js/modal.js HTTP/1.1" 404 -
+2017-11-28 06:42:29,382 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:42:29] "GET /web/static/lib/jquery/jquery.js HTTP/1.1" 404 -
+2017-11-28 06:42:29,382 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:42:29] "GET /web/static/lib/bootstrap/js/tooltip.js HTTP/1.1" 404 -
+2017-11-28 06:42:29,383 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:42:29] "GET /web/static/lib/fontawesome/css/font-awesome.css HTTP/1.1" 404 -
+2017-11-28 06:42:29,396 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:42:29] "GET /web/static/src/img/logo2.png HTTP/1.1" 404 -
+2017-11-28 06:42:29,398 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:42:29] "GET /web/static/lib/bootstrap/js/modal.js HTTP/1.1" 404 -
+2017-11-28 06:42:29,405 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:42:29] "GET /web/static/lib/bootstrap/js/tooltip.js HTTP/1.1" 404 -
+2017-11-28 06:42:29,414 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:42:29] "GET /web/static/lib/bootstrap/js/dropdown.js HTTP/1.1" 404 -
+2017-11-28 06:42:32,900 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:42:32] "GET / HTTP/1.1" 200 -
+2017-11-28 06:42:32,951 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:42:32] "GET /favicon.ico HTTP/1.1" 404 -
+2017-11-28 06:42:32,953 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:42:32] "GET /web HTTP/1.1" 303 -
+2017-11-28 06:42:33,007 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:42:33] "GET /web/database/selector HTTP/1.1" 200 -
+2017-11-28 06:42:33,038 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:42:33] "GET /web/static/lib/bootstrap/css/bootstrap.css HTTP/1.1" 404 -
+2017-11-28 06:42:33,039 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:42:33] "GET /web/static/lib/jquery/jquery.js HTTP/1.1" 404 -
+2017-11-28 06:42:33,070 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:42:33] "GET /web/static/lib/bootstrap/js/modal.js HTTP/1.1" 404 -
+2017-11-28 06:42:33,071 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:42:33] "GET /web/static/lib/bootstrap/js/tooltip.js HTTP/1.1" 404 -
+2017-11-28 06:42:33,071 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:42:33] "GET /web/static/lib/fontawesome/css/font-awesome.css HTTP/1.1" 404 -
+2017-11-28 06:42:33,073 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:42:33] "GET /web/static/lib/bootstrap/js/dropdown.js HTTP/1.1" 404 -
+2017-11-28 06:42:33,159 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:42:33] "GET /web/static/src/img/logo2.png HTTP/1.1" 404 -
+2017-11-28 06:42:33,163 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:42:33] "GET /web/static/lib/bootstrap/js/modal.js HTTP/1.1" 404 -
+2017-11-28 06:42:33,189 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:42:33] "GET /web/static/lib/bootstrap/js/tooltip.js HTTP/1.1" 404 -
+2017-11-28 06:42:33,263 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:42:33] "GET /web/static/lib/bootstrap/js/dropdown.js HTTP/1.1" 404 -
+2017-11-28 06:42:35,576 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:42:35] "GET /web/static/lib/fontawesome/css/font-awesome.css HTTP/1.1" 404 -
+2017-11-28 06:42:35,580 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:42:35] "GET /web/static/lib/bootstrap/css/bootstrap.css HTTP/1.1" 404 -
+2017-11-28 06:45:00,697 1 INFO ? odoo.service.server: Initiating shutdown
+2017-11-28 06:45:00,697 1 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown.
+2017-11-28 06:45:11,763 1 INFO ? odoo: Odoo version 11.0-20171030
+2017-11-28 06:45:11,763 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf
+2017-11-28 06:45:11,763 1 INFO ? odoo: addons paths: ['/var/lib/odoo/addons/11.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons']
+2017-11-28 06:45:11,763 1 INFO ? odoo: database: odoo@db:5432
+2017-11-28 06:45:11,772 1 WARNING ? odoo.service.server: 'watchdog' module not installed. Code autoreload feature is disabled
+2017-11-28 06:45:11,773 1 INFO ? odoo.service.server: HTTP service (werkzeug) running on 0.0.0.0:8069
+2017-11-28 06:45:11,865 1 INFO ? odoo.addons.base.ir.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf
+2017-11-28 06:48:20,843 1 INFO ? odoo.http: HTTP Configuring static files
+2017-11-28 06:48:20,867 1 INFO ? odoo.http: Generating nondb routing
+2017-11-28 06:48:20,940 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:48:20] "GET /web/database/selector HTTP/1.1" 200 -
+2017-11-28 06:48:20,972 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:48:20] "GET /web/static/lib/bootstrap/css/bootstrap.css HTTP/1.1" 200 -
+2017-11-28 06:48:20,976 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:48:20] "GET /web/static/lib/jquery/jquery.js HTTP/1.1" 200 -
+2017-11-28 06:48:20,980 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:48:20] "GET /web/static/lib/fontawesome/css/font-awesome.css HTTP/1.1" 200 -
+2017-11-28 06:48:20,982 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:48:20] "GET /web/static/lib/bootstrap/js/modal.js HTTP/1.1" 200 -
+2017-11-28 06:48:20,984 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:48:20] "GET /web/static/lib/bootstrap/js/dropdown.js HTTP/1.1" 200 -
+2017-11-28 06:48:21,006 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:48:21] "GET /web/static/lib/bootstrap/js/tooltip.js HTTP/1.1" 200 -
+2017-11-28 06:48:21,129 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:48:21] "GET /web/static/src/img/logo2.png HTTP/1.1" 200 -
+2017-11-28 06:48:21,202 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:48:21] "GET /web/static/lib/fontawesome/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1" 200 -
+2017-11-28 06:48:21,274 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:48:21] "GET /web/static/lib/bootstrap/css/bootstrap.css.map HTTP/1.1" 404 -
+2017-11-28 06:48:43,167 1 INFO None odoo.service.db: Create database `odoo11`.
+2017-11-28 06:48:48,490 1 INFO odoo11 odoo.modules.loading: loading 1 modules...
+2017-11-28 06:48:48,599 1 INFO odoo11 odoo.modules.registry: module base: creating or updating database tables
+2017-11-28 06:48:51,643 1 INFO odoo11 odoo.models: Computing parent left and right for table ir_ui_menu...
+2017-11-28 06:49:00,029 1 INFO odoo11 odoo.models: Computing parent left and right for table res_partner_category...
+2017-11-28 06:49:03,703 1 INFO odoo11 odoo.models: Storing computed values of ir.actions.server.model_name
+2017-11-28 06:49:03,844 1 INFO odoo11 odoo.models: Storing computed values of ir.attachment.res_name
+2017-11-28 06:49:03,882 1 INFO odoo11 odoo.models: Storing computed values of ir.cron.cron_name
+2017-11-28 06:49:03,992 1 INFO odoo11 odoo.models: Storing computed values of ir.rule.global
+2017-11-28 06:49:04,186 1 INFO odoo11 odoo.models: Storing computed values of ir.module.module.menus_by_module
+2017-11-28 06:49:04,187 1 INFO odoo11 odoo.models: Storing computed values of ir.module.module.reports_by_module
+2017-11-28 06:49:04,188 1 INFO odoo11 odoo.models: Storing computed values of ir.module.module.views_by_module
+2017-11-28 06:49:04,541 1 INFO odoo11 odoo.models: Storing computed values of res.partner.display_name
+2017-11-28 06:49:04,553 1 INFO odoo11 odoo.models: Storing computed values of res.partner.partner_share
+2017-11-28 06:49:04,555 1 INFO odoo11 odoo.models: Storing computed values of res.partner.commercial_partner_id
+2017-11-28 06:49:04,557 1 INFO odoo11 odoo.models: Storing computed values of res.partner.commercial_partner_country_id
+2017-11-28 06:49:04,558 1 INFO odoo11 odoo.models: Storing computed values of res.partner.commercial_company_name
+2017-11-28 06:49:04,617 1 INFO odoo11 odoo.models: Storing computed values of res.partner.bank.sanitized_acc_number
+2017-11-28 06:49:04,740 1 INFO odoo11 odoo.models: Storing computed values of res.company.logo_web
+2017-11-28 06:49:04,749 1 INFO odoo11 odoo.models: Storing computed values of res.company.email
+2017-11-28 06:49:04,750 1 INFO odoo11 odoo.models: Storing computed values of res.company.phone
+2017-11-28 06:49:04,874 1 INFO odoo11 odoo.models: Storing computed values of res.users.share
+2017-11-28 06:49:05,206 1 INFO odoo11 odoo.modules.loading: loading base/res/res.lang.csv
+2017-11-28 06:49:05,627 1 INFO odoo11 odoo.modules.loading: loading base/base_data.xml
+2017-11-28 06:49:06,014 1 INFO odoo11 odoo.modules.loading: loading base/res/res_currency_data.xml
+2017-11-28 06:49:06,560 1 INFO odoo11 odoo.modules.loading: loading base/res/res_country_data.xml
+2017-11-28 06:49:09,635 1 INFO odoo11 odoo.modules.loading: loading base/security/base_security.xml
+2017-11-28 06:49:09,986 1 INFO odoo11 odoo.modules.loading: loading base/base_menu.xml
+2017-11-28 06:49:10,275 1 INFO odoo11 odoo.modules.loading: loading base/res/res_config.xml
+2017-11-28 06:49:10,345 1 INFO odoo11 odoo.modules.loading: loading base/res/res.country.state.csv
+2017-11-28 06:49:12,110 1 INFO odoo11 odoo.modules.loading: loading base/ir/ir_actions.xml
+2017-11-28 06:49:12,538 1 INFO odoo11 odoo.modules.loading: loading base/ir/ir_config_parameter_view.xml
+2017-11-28 06:49:12,642 1 INFO odoo11 odoo.modules.loading: loading base/ir/ir_cron_view.xml
+2017-11-28 06:49:12,800 1 INFO odoo11 odoo.modules.loading: loading base/ir/ir_filters.xml
+2017-11-28 06:49:13,379 1 INFO odoo11 odoo.modules.loading: loading base/ir/ir_mail_server_view.xml
+2017-11-28 06:49:13,441 1 INFO odoo11 odoo.modules.loading: loading base/ir/ir_model_view.xml
+2017-11-28 06:49:14,086 1 INFO odoo11 odoo.modules.loading: loading base/ir/ir_attachment_view.xml
+2017-11-28 06:49:14,308 1 INFO odoo11 odoo.modules.loading: loading base/ir/ir_rule_view.xml
+2017-11-28 06:49:14,432 1 INFO odoo11 odoo.modules.loading: loading base/ir/ir_sequence_view.xml
+2017-11-28 06:49:14,499 1 INFO odoo11 odoo.modules.loading: loading base/ir/ir_translation_view.xml
+2017-11-28 06:49:14,589 1 INFO odoo11 odoo.modules.loading: loading base/ir/ir_ui_menu_view.xml
+2017-11-28 06:49:14,735 1 INFO odoo11 odoo.modules.loading: loading base/ir/ir_ui_view_view.xml
+2017-11-28 06:49:14,926 1 INFO odoo11 odoo.modules.loading: loading base/ir/ir_default_view.xml
+2017-11-28 06:49:15,019 1 INFO odoo11 odoo.modules.loading: loading base/ir/ir_autovacuum.xml
+2017-11-28 06:49:15,048 1 INFO odoo11 odoo.modules.loading: loading base/ir/ir_model_report.xml
+2017-11-28 06:49:15,056 1 INFO odoo11 odoo.modules.loading: loading base/ir/report_ir_model.xml
+2017-11-28 06:49:15,077 1 INFO odoo11 odoo.modules.loading: loading base/ir/ir_logging_view.xml
+2017-11-28 06:49:15,181 1 INFO odoo11 odoo.modules.loading: loading base/ir/ir_qweb.xml
+2017-11-28 06:49:15,222 1 INFO odoo11 odoo.modules.loading: loading base/module/module_view.xml
+2017-11-28 06:49:15,403 1 INFO odoo11 odoo.modules.loading: loading base/module/module_data.xml
+2017-11-28 06:49:15,539 1 INFO odoo11 odoo.modules.loading: loading base/module/module_report.xml
+2017-11-28 06:49:15,547 1 INFO odoo11 odoo.modules.loading: loading base/module/report/report_ir_module_reference.xml
+2017-11-28 06:49:15,606 1 INFO odoo11 odoo.modules.loading: loading base/module/wizard/base_module_update_view.xml
+2017-11-28 06:49:15,634 1 INFO odoo11 odoo.modules.loading: loading base/module/wizard/base_language_install_view.xml
+2017-11-28 06:49:15,676 1 INFO odoo11 odoo.modules.loading: loading base/module/wizard/base_import_language_view.xml
+2017-11-28 06:49:15,717 1 INFO odoo11 odoo.modules.loading: loading base/module/wizard/base_module_upgrade_view.xml
+2017-11-28 06:49:15,762 1 INFO odoo11 odoo.modules.loading: loading base/module/wizard/base_module_uninstall_view.xml
+2017-11-28 06:49:15,787 1 INFO odoo11 odoo.modules.loading: loading base/module/wizard/base_export_language_view.xml
+2017-11-28 06:49:15,815 1 INFO odoo11 odoo.modules.loading: loading base/module/wizard/base_update_translations_view.xml
+2017-11-28 06:49:15,845 1 INFO odoo11 odoo.modules.loading: loading base/module/wizard/base_module_immediate_install.xml
+2017-11-28 06:49:15,857 1 INFO odoo11 odoo.modules.loading: loading base/res/res_company_view.xml
+2017-11-28 06:49:16,016 1 INFO odoo11 odoo.modules.loading: loading base/res/res_request_view.xml
+2017-11-28 06:49:16,113 1 INFO odoo11 odoo.modules.loading: loading base/res/res_lang_view.xml
+2017-11-28 06:49:16,186 1 INFO odoo11 odoo.modules.loading: loading base/res/res_partner_view.xml
+2017-11-28 06:49:16,482 1 INFO odoo11 odoo.modules.loading: loading base/res/res_bank_view.xml
+2017-11-28 06:49:16,627 1 INFO odoo11 odoo.modules.loading: loading base/res/res_country_view.xml
+2017-11-28 06:49:16,750 1 INFO odoo11 odoo.modules.loading: loading base/res/res_currency_view.xml
+2017-11-28 06:49:16,942 1 INFO odoo11 odoo.modules.loading: loading base/res/res_users_view.xml
+2017-11-28 06:49:17,339 1 INFO odoo11 odoo.modules.loading: loading base/res/res_partner_data.xml
+2017-11-28 06:49:17,396 1 INFO odoo11 odoo.modules.loading: loading base/res/ir_property_view.xml
+2017-11-28 06:49:17,459 1 INFO odoo11 odoo.modules.loading: loading base/res/res_config_settings_views.xml
+2017-11-28 06:49:17,483 1 INFO odoo11 odoo.modules.loading: loading base/res/res_security.xml
+2017-11-28 06:49:17,527 1 INFO odoo11 odoo.modules.loading: loading base/res/report_paperformat_views.xml
+2017-11-28 06:49:17,613 1 INFO odoo11 odoo.modules.loading: loading base/security/ir.model.access.csv
+2017-11-28 06:49:18,997 1 INFO odoo11 odoo.modules.loading: loading base/base_demo.xml
+2017-11-28 06:49:19,440 1 INFO odoo11 odoo.modules.loading: loading base/res/res_currency_demo.xml
+2017-11-28 06:49:19,811 1 INFO odoo11 odoo.modules.loading: loading base/res/res_bank_demo.xml
+2017-11-28 06:49:19,821 1 INFO odoo11 odoo.modules.loading: loading base/res/res_partner_demo.xml
+2017-11-28 06:49:20,361 1 INFO odoo11 odoo.modules.loading: loading base/res/res_partner_demo.yml
+2017-11-28 06:49:23,015 1 INFO odoo11 odoo.modules.loading: loading base/res/res_partner_image_demo.xml
+2017-11-28 06:49:25,295 1 INFO odoo11 odoo.modules.loading: 1 modules loaded in 36.80s, 0 queries
+2017-11-28 06:49:25,356 1 INFO odoo11 odoo.modules.loading: updating modules list
+2017-11-28 06:49:25,356 1 INFO odoo11 odoo.addons.base.module.module: ALLOW access to module.update_list on [] to user admin #1 via 172.24.0.1
+2017-11-28 06:49:25,806 1 INFO odoo11 odoo.modules.loading: loading 11 modules...
+2017-11-28 06:49:25,887 1 INFO odoo11 odoo.modules.registry: module auth_crypt: creating or updating database tables
+2017-11-28 06:49:25,899 1 INFO odoo11 odoo.addons.auth_crypt.models.res_users: Hashing passwords, may be slow for databases with many users...
+2017-11-28 06:49:26,288 1 INFO odoo11 odoo.modules.registry: module web: creating or updating database tables
+2017-11-28 06:49:26,593 1 INFO odoo11 odoo.addons.auth_crypt.models.res_users: Hashing passwords, may be slow for databases with many users...
+2017-11-28 06:49:27,122 1 INFO odoo11 odoo.modules.loading: loading web/views/webclient_templates.xml
+2017-11-28 06:49:27,405 1 INFO odoo11 odoo.modules.loading: loading web/views/report_templates.xml
+2017-11-28 06:49:27,999 1 INFO odoo11 odoo.modules.registry: module base_import: creating or updating database tables
+2017-11-28 06:49:30,078 1 INFO odoo11 odoo.modules.loading: loading base_import/security/ir.model.access.csv
+2017-11-28 06:49:30,312 1 INFO odoo11 odoo.modules.loading: loading base_import/views/base_import_templates.xml
+2017-11-28 06:49:30,520 1 INFO odoo11 odoo.modules.registry: module iap: creating or updating database tables
+2017-11-28 06:49:30,686 1 INFO odoo11 odoo.modules.loading: loading iap/security/ir.model.access.csv
+2017-11-28 06:49:30,748 1 INFO odoo11 odoo.modules.loading: loading iap/security/ir_rule.xml
+2017-11-28 06:49:30,765 1 INFO odoo11 odoo.modules.loading: loading iap/views/assets.xml
+2017-11-28 06:49:30,794 1 INFO odoo11 odoo.modules.loading: loading iap/views/iap_views.xml
+2017-11-28 06:49:30,920 1 INFO odoo11 odoo.modules.registry: module web_diagram: creating or updating database tables
+2017-11-28 06:49:30,928 1 INFO odoo11 odoo.modules.loading: loading web_diagram/views/web_diagram_templates.xml
+2017-11-28 06:49:31,108 1 INFO odoo11 odoo.modules.registry: module web_editor: creating or updating database tables
+2017-11-28 06:49:31,511 1 INFO odoo11 odoo.modules.loading: loading web_editor/security/ir.model.access.csv
+2017-11-28 06:49:31,572 1 INFO odoo11 odoo.modules.loading: loading web_editor/views/editor.xml
+2017-11-28 06:49:31,797 1 INFO odoo11 odoo.modules.loading: loading web_editor/views/iframe.xml
+2017-11-28 06:49:31,990 1 INFO odoo11 odoo.modules.loading: loading web_editor/views/snippets.xml
+2017-11-28 06:49:32,235 1 INFO odoo11 odoo.modules.registry: module web_kanban_gauge: creating or updating database tables
+2017-11-28 06:49:32,243 1 INFO odoo11 odoo.modules.loading: loading web_kanban_gauge/views/web_kanban_gauge_templates.xml
+2017-11-28 06:49:32,505 1 INFO odoo11 odoo.modules.registry: module web_planner: creating or updating database tables
+2017-11-28 06:49:32,718 1 INFO odoo11 odoo.modules.loading: loading web_planner/security/ir.model.access.csv
+2017-11-28 06:49:32,793 1 INFO odoo11 odoo.modules.loading: loading web_planner/security/web_planner_security.xml
+2017-11-28 06:49:32,822 1 INFO odoo11 odoo.modules.loading: loading web_planner/views/web_planner_templates.xml
+2017-11-28 06:49:32,937 1 INFO odoo11 odoo.modules.loading: loading web_planner/views/web_planner_views.xml
+2017-11-28 06:49:33,103 1 INFO odoo11 odoo.modules.registry: module web_tour: creating or updating database tables
+2017-11-28 06:49:33,382 1 INFO odoo11 odoo.modules.loading: loading web_tour/security/ir.model.access.csv
+2017-11-28 06:49:33,405 1 INFO odoo11 odoo.modules.loading: loading web_tour/views/tour_templates.xml
+2017-11-28 06:49:33,479 1 INFO odoo11 odoo.modules.loading: loading web_tour/views/tour_views.xml
+2017-11-28 06:49:33,650 1 INFO odoo11 odoo.modules.registry: module web_settings_dashboard: creating or updating database tables
+2017-11-28 06:49:33,655 1 INFO odoo11 odoo.addons.auth_crypt.models.res_users: Hashing passwords, may be slow for databases with many users...
+2017-11-28 06:49:33,681 1 INFO odoo11 odoo.modules.loading: loading web_settings_dashboard/views/dashboard_views.xml
+2017-11-28 06:49:33,744 1 INFO odoo11 odoo.modules.loading: loading web_settings_dashboard/views/dashboard_templates.xml
+2017-11-28 06:49:33,884 1 INFO odoo11 odoo.modules.loading: 11 modules loaded in 8.08s, 0 queries
+2017-11-28 06:49:34,054 1 INFO odoo11 odoo.modules.loading: Modules loaded.
+2017-11-28 06:49:34,056 1 INFO odoo11 odoo.models: Computing parent left and right for table res_partner_category...
+2017-11-28 06:49:34,061 1 INFO odoo11 odoo.models: Computing parent left and right for table ir_ui_menu...
+2017-11-28 06:49:34,223 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:34] "POST /web/database/create HTTP/1.1" 303 -
+2017-11-28 06:49:34,228 1 INFO odoo11 odoo.addons.base.ir.ir_http: Generating routing map
+2017-11-28 06:49:39,709 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:39] "GET /web/ HTTP/1.1" 200 -
+2017-11-28 06:49:39,765 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:39] "GET /web/content/339-8b36e1a/web.assets_backend.0.css HTTP/1.1" 200 -
+2017-11-28 06:49:39,765 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:39] "GET /web/content/341-a7c470d/web_editor.summernote.0.css HTTP/1.1" 200 -
+2017-11-28 06:49:39,766 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:39] "GET /web/content/343-703e18f/web.assets_common.js HTTP/1.1" 200 -
+2017-11-28 06:49:39,784 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:39] "GET /web/content/340-8b36e1a/web.assets_backend.1.css HTTP/1.1" 200 -
+2017-11-28 06:49:39,784 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:39] "GET /web/content/338-703e18f/web.assets_common.0.css HTTP/1.1" 200 -
+2017-11-28 06:49:39,789 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:39] "GET /web/content/342-2bf79cd/web_editor.assets_editor.0.css HTTP/1.1" 200 -
+2017-11-28 06:49:39,817 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:39] "GET /web/content/345-a7c470d/web_editor.summernote.js HTTP/1.1" 200 -
+2017-11-28 06:49:39,819 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:39] "GET /web/content/344-8b36e1a/web.assets_backend.js HTTP/1.1" 200 -
+2017-11-28 06:49:39,824 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:39] "GET /web/content/346-2bf79cd/web_editor.assets_editor.js HTTP/1.1" 200 -
+2017-11-28 06:49:39,836 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:39] "GET /web/binary/company_logo HTTP/1.1" 200 -
+2017-11-28 06:49:40,136 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:40] "GET /web/webclient/qweb?mods=web,base,web_tour,web_editor,web_planner,iap,web_kanban_gauge,web_diagram,base_import,web_settings_dashboard HTTP/1.1" 200 -
+2017-11-28 06:49:40,184 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:40] "POST /web/dataset/call HTTP/1.1" 200 -
+2017-11-28 06:49:40,279 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:40] "POST /web/webclient/translations HTTP/1.1" 200 -
+2017-11-28 06:49:40,290 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:40] "GET /web/webclient/locale/en_US HTTP/1.1" 200 -
+2017-11-28 06:49:40,327 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:40] "POST /web/dataset/call_kw/web.planner/search_read HTTP/1.1" 200 -
+2017-11-28 06:49:40,341 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:40] "GET /web/binary/company_logo?db=odoo11&company=1 HTTP/1.1" 200 -
+2017-11-28 06:49:40,345 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:40] "POST /web/dataset/call_kw/res.users/read HTTP/1.1" 200 -
+2017-11-28 06:49:40,351 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:40] "GET /web/image?model=res.users&field=image_small&id=1 HTTP/1.1" 200 -
+2017-11-28 06:49:40,402 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:40] "POST /web/action/load HTTP/1.1" 200 -
+2017-11-28 06:49:40,483 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:40] "POST /web/dataset/call_kw/ir.module.module/load_views HTTP/1.1" 200 -
+2017-11-28 06:49:40,545 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:40] "POST /web/dataset/search_read HTTP/1.1" 200 -
+2017-11-28 06:49:40,742 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:40] "GET /crm/static/description/icon.png HTTP/1.1" 200 -
+2017-11-28 06:49:40,753 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:40] "GET /stock/static/description/icon.png HTTP/1.1" 200 -
+2017-11-28 06:49:40,766 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:40] "GET /mrp/static/description/icon.png HTTP/1.1" 200 -
+2017-11-28 06:49:40,779 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:40] "GET /project/static/description/icon.png HTTP/1.1" 200 -
+2017-11-28 06:49:40,794 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:40] "GET /sale_management/static/description/icon.png HTTP/1.1" 200 -
+2017-11-28 06:49:40,805 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:40] "GET /point_of_sale/static/description/icon.png HTTP/1.1" 200 -
+2017-11-28 06:49:40,820 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:40] "GET /hr_timesheet/static/description/icon.png HTTP/1.1" 200 -
+2017-11-28 06:49:40,831 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:40] "GET /mail/static/description/icon.png HTTP/1.1" 200 -
+2017-11-28 06:49:40,844 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:40] "GET /hr_holidays/static/description/icon.png HTTP/1.1" 200 -
+2017-11-28 06:49:40,853 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:40] "GET /website_sale/static/description/icon.png HTTP/1.1" 200 -
+2017-11-28 06:49:40,865 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:40] "GET /account_invoicing/static/description/icon.png HTTP/1.1" 200 -
+2017-11-28 06:49:40,878 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:40] "GET /note/static/description/icon.png HTTP/1.1" 200 -
+2017-11-28 06:49:40,887 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:40] "GET /website/static/description/icon.png HTTP/1.1" 200 -
+2017-11-28 06:49:40,894 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:40] "GET /purchase/static/description/icon.png HTTP/1.1" 200 -
+2017-11-28 06:49:40,909 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:40] "GET /hr/static/description/icon.png HTTP/1.1" 200 -
+2017-11-28 06:49:40,919 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:40] "GET /board/static/description/icon.png HTTP/1.1" 200 -
+2017-11-28 06:49:40,923 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:40] "GET /contacts/static/description/icon.png HTTP/1.1" 200 -
+2017-11-28 06:49:40,931 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:40] "GET /survey/static/description/icon.png HTTP/1.1" 200 -
+2017-11-28 06:49:40,944 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:40] "GET /hr_attendance/static/description/icon.png HTTP/1.1" 200 -
+2017-11-28 06:49:40,951 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:40] "GET /mass_mailing/static/description/icon.png HTTP/1.1" 200 -
+2017-11-28 06:49:40,961 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:40] "GET /lunch/static/description/icon.png HTTP/1.1" 200 -
+2017-11-28 06:49:40,975 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:40] "GET /hr_recruitment/static/description/icon.png HTTP/1.1" 200 -
+2017-11-28 06:49:40,991 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:40] "GET /hr_expense/static/description/icon.png HTTP/1.1" 200 -
+2017-11-28 06:49:41,015 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:41] "GET /maintenance/static/description/icon.png HTTP/1.1" 200 -
+2017-11-28 06:49:41,112 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:41] "GET /fleet/static/description/icon.png HTTP/1.1" 200 -
+2017-11-28 06:49:41,115 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:41] "GET /calendar/static/description/icon.png HTTP/1.1" 200 -
+2017-11-28 06:49:41,137 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:41] "GET /website_blog/static/description/icon.png HTTP/1.1" 200 -
+2017-11-28 06:49:41,158 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:41] "GET /website_slides/static/description/icon.png HTTP/1.1" 200 -
+2017-11-28 06:49:41,197 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:41] "GET /website_forum/static/description/icon.png HTTP/1.1" 200 -
+2017-11-28 06:49:41,211 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:41] "GET /website_event/static/description/icon.png HTTP/1.1" 200 -
+2017-11-28 06:49:41,218 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:41] "GET /im_livechat/static/description/icon.png HTTP/1.1" 200 -
+2017-11-28 06:49:41,258 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:49:41] "GET /mrp_repair/static/description/icon.png HTTP/1.1" 200 -
+2017-11-28 06:50:12,310 1 INFO odoo11 odoo.addons.base.ir.ir_attachment: filestore gc 345 checked, 0 removed
+2017-11-28 06:50:12,317 1 INFO odoo11 odoo.addons.base.ir.ir_autovacuum: GC'd 0 user log entries
+2017-11-28 06:53:14,706 1 INFO odoo11 odoo.addons.base.module.module: ALLOW access to module.button_immediate_install on ['sale_management'] to user admin #1 via 172.24.0.1
+2017-11-28 06:53:14,706 1 INFO odoo11 odoo.addons.base.module.module: User #1 triggered module installation
+2017-11-28 06:53:14,706 1 INFO odoo11 odoo.addons.base.module.module: ALLOW access to module.button_install on ['sale_management'] to user admin #1 via 172.24.0.1
+2017-11-28 06:53:14,949 1 INFO odoo11 odoo.modules.loading: loading 1 modules...
+2017-11-28 06:53:14,981 1 INFO odoo11 odoo.modules.loading: 1 modules loaded in 0.03s, 0 queries
+2017-11-28 06:53:15,078 1 INFO odoo11 odoo.modules.loading: updating modules list
+2017-11-28 06:53:15,080 1 INFO odoo11 odoo.addons.base.module.module: ALLOW access to module.update_list on [] to user admin #1 via 172.24.0.1
+2017-11-28 06:53:15,494 1 INFO odoo11 odoo.modules.loading: loading 11 modules...
+2017-11-28 06:53:15,573 1 INFO odoo11 odoo.modules.loading: 11 modules loaded in 0.08s, 0 queries
+2017-11-28 06:53:15,585 1 INFO odoo11 odoo.modules.loading: loading 30 modules...
+2017-11-28 06:53:15,615 1 INFO odoo11 odoo.modules.registry: module decimal_precision: creating or updating database tables
+2017-11-28 06:53:16,353 1 INFO odoo11 odoo.modules.loading: loading decimal_precision/views/decimal_precision_views.xml
+2017-11-28 06:53:16,416 1 INFO odoo11 odoo.modules.loading: loading decimal_precision/security/ir.model.access.csv
+2017-11-28 06:53:16,768 1 INFO odoo11 odoo.modules.registry: module base_setup: creating or updating database tables
+2017-11-28 06:53:16,878 1 INFO odoo11 odoo.modules.loading: loading base_setup/views/res_config_settings_views.xml
+2017-11-28 06:53:17,022 1 INFO odoo11 odoo.modules.loading: loading base_setup/views/res_partner_views.xml
+2017-11-28 06:53:17,190 1 INFO odoo11 odoo.modules.registry: module bus: creating or updating database tables
+2017-11-28 06:53:17,736 1 INFO odoo11 odoo.addons.auth_crypt.models.res_users: Hashing passwords, may be slow for databases with many users...
+2017-11-28 06:53:17,783 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:53:17] "GET /web/static/src/img/spin.png HTTP/1.1" 200 -
+2017-11-28 06:53:17,949 1 INFO odoo11 odoo.modules.loading: loading bus/views/bus.xml
+2017-11-28 06:53:18,040 1 INFO odoo11 odoo.modules.loading: loading bus/security/ir.model.access.csv
+2017-11-28 06:53:18,276 1 INFO odoo11 odoo.modules.registry: module http_routing: creating or updating database tables
+2017-11-28 06:53:18,530 1 INFO odoo11 odoo.modules.registry: module mail: creating or updating database tables
+2017-11-28 06:53:27,696 1 INFO odoo11 odoo.addons.auth_crypt.models.res_users: Hashing passwords, may be slow for databases with many users...
+2017-11-28 06:53:32,730 1 INFO odoo11 odoo.models: Storing computed values of mail.activity.res_model
+2017-11-28 06:53:32,731 1 INFO odoo11 odoo.models: Storing computed values of mail.activity.res_name
+2017-11-28 06:53:33,024 1 INFO odoo11 odoo.models: Storing computed values of mail.template.model
+2017-11-28 06:53:33,111 1 INFO odoo11 odoo.models: Storing computed values of res.partner.activity_date_deadline
+2017-11-28 06:53:33,404 1 INFO odoo11 odoo.models: Storing computed values of email_template.preview.model
+2017-11-28 06:53:33,650 1 INFO odoo11 odoo.modules.loading: loading mail/wizard/invite_view.xml
+2017-11-28 06:53:33,737 1 INFO odoo11 odoo.modules.loading: loading mail/wizard/mail_compose_message_view.xml
+2017-11-28 06:53:33,910 1 INFO odoo11 odoo.modules.loading: loading mail/views/mail_message_subtype_views.xml
+2017-11-28 06:53:33,949 1 INFO odoo11 odoo.modules.loading: loading mail/views/mail_tracking_views.xml
+2017-11-28 06:53:33,994 1 INFO odoo11 odoo.modules.loading: loading mail/views/mail_message_views.xml
+2017-11-28 06:53:34,079 1 INFO odoo11 odoo.modules.loading: loading mail/views/mail_mail_views.xml
+2017-11-28 06:53:34,186 1 INFO odoo11 odoo.modules.loading: loading mail/views/mail_followers_views.xml
+2017-11-28 06:53:34,238 1 INFO odoo11 odoo.modules.loading: loading mail/views/mail_channel_views.xml
+2017-11-28 06:53:34,476 1 INFO odoo11 odoo.modules.loading: loading mail/views/mail_shortcode_views.xml
+2017-11-28 06:53:34,548 1 INFO odoo11 odoo.modules.loading: loading mail/views/mail_activity_views.xml
+2017-11-28 06:53:34,725 1 INFO odoo11 odoo.modules.loading: loading mail/views/res_config_settings_views.xml
+2017-11-28 06:53:34,809 1 INFO odoo11 odoo.modules.loading: loading mail/data/mail_data.xml
+2017-11-28 06:53:35,129 1 INFO odoo11 odoo.modules.loading: loading mail/data/mail_channel_data.xml
+2017-11-28 06:53:35,251 1 INFO odoo11 odoo.modules.loading: loading mail/data/mail_shortcode_data.xml
+2017-11-28 06:53:35,475 1 INFO odoo11 odoo.modules.loading: loading mail/data/mail_activity_data.xml
+2017-11-28 06:53:35,549 1 INFO odoo11 odoo.modules.loading: loading mail/security/mail_security.xml
+2017-11-28 06:53:35,747 1 INFO odoo11 odoo.modules.loading: loading mail/security/ir.model.access.csv
+2017-11-28 06:53:36,164 1 INFO odoo11 odoo.modules.loading: loading mail/views/mail_alias_views.xml
+2017-11-28 06:53:36,300 1 INFO odoo11 odoo.modules.loading: loading mail/views/res_users_views.xml
+2017-11-28 06:53:36,414 1 INFO odoo11 odoo.modules.loading: loading mail/views/mail_templates.xml
+2017-11-28 06:53:36,585 1 INFO odoo11 odoo.modules.loading: loading mail/wizard/email_template_preview_view.xml
+2017-11-28 06:53:36,637 1 INFO odoo11 odoo.modules.loading: loading mail/views/mail_template_views.xml
+2017-11-28 06:53:36,701 1 INFO odoo11 odoo.modules.loading: loading mail/views/ir_actions_views.xml
+2017-11-28 06:53:36,824 1 INFO odoo11 odoo.modules.loading: loading mail/views/ir_model_views.xml
+2017-11-28 06:53:36,916 1 INFO odoo11 odoo.modules.loading: loading mail/views/res_partner_views.xml
+2017-11-28 06:53:37,046 1 INFO odoo11 odoo.modules.loading: loading mail/data/mail_demo.xml
+2017-11-28 06:53:37,305 1 INFO odoo11 odoo.tests: skip sending email in test mode
+2017-11-28 06:53:37,320 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Mail with ID 1 and Message-Id '<686884282924657.1511852017.132610797882080-openerp-private@532b94f00fc1>' successfully sent
+2017-11-28 06:53:37,356 1 INFO odoo11 odoo.models.unlink: User #1 deleted mail.mail records with IDs: [1]
+2017-11-28 06:53:37,357 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Sent batch 1 emails via mail server ID #False
+2017-11-28 06:53:37,435 1 INFO odoo11 odoo.tests: skip sending email in test mode
+2017-11-28 06:53:37,438 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Mail with ID 2 and Message-Id '<201506708949248.1511852017.373781681060791-openerp-private@532b94f00fc1>' successfully sent
+2017-11-28 06:53:37,445 1 INFO odoo11 odoo.models.unlink: User #1 deleted mail.mail records with IDs: [2]
+2017-11-28 06:53:37,445 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Sent batch 1 emails via mail server ID #False
+2017-11-28 06:53:37,590 1 INFO odoo11 odoo.tests: skip sending email in test mode
+2017-11-28 06:53:37,592 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Mail with ID 3 and Message-Id '<543867299982016.1511852017.498050689697266-openerp-private@532b94f00fc1>' successfully sent
+2017-11-28 06:53:37,600 1 INFO odoo11 odoo.models.unlink: User #1 deleted mail.mail records with IDs: [3]
+2017-11-28 06:53:37,600 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Sent batch 1 emails via mail server ID #False
+2017-11-28 06:53:37,689 1 INFO odoo11 odoo.tests: skip sending email in test mode
+2017-11-28 06:53:37,692 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Mail with ID 4 and Message-Id '<942320623485304.1511852017.630105257034302-openerp-private@532b94f00fc1>' successfully sent
+2017-11-28 06:53:37,701 1 INFO odoo11 odoo.models.unlink: User #1 deleted mail.mail records with IDs: [4]
+2017-11-28 06:53:37,701 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Sent batch 1 emails via mail server ID #False
+2017-11-28 06:53:37,838 1 INFO odoo11 odoo.tests: skip sending email in test mode
+2017-11-28 06:53:37,841 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Mail with ID 5 and Message-Id '<134485325186985.1511852017.778676271438599-openerp-private@532b94f00fc1>' successfully sent
+2017-11-28 06:53:37,849 1 INFO odoo11 odoo.models.unlink: User #1 deleted mail.mail records with IDs: [5]
+2017-11-28 06:53:37,849 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Sent batch 1 emails via mail server ID #False
+2017-11-28 06:53:37,931 1 INFO odoo11 odoo.tests: skip sending email in test mode
+2017-11-28 06:53:37,935 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Mail with ID 6 and Message-Id '<484223403006640.1511852017.867626667022705-openerp-private@532b94f00fc1>' successfully sent
+2017-11-28 06:53:37,948 1 INFO odoo11 odoo.models.unlink: User #1 deleted mail.mail records with IDs: [6]
+2017-11-28 06:53:37,948 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Sent batch 1 emails via mail server ID #False
+2017-11-28 06:53:37,996 1 INFO odoo11 odoo.modules.loading: loading mail/data/mail_channel_demo.xml
+2017-11-28 06:53:38,907 1 INFO odoo11 odoo.modules.registry: module analytic: creating or updating database tables
+2017-11-28 06:53:40,487 1 INFO odoo11 odoo.models: Storing computed values of account.analytic.line.company_id
+2017-11-28 06:53:40,517 1 INFO odoo11 odoo.modules.loading: loading analytic/security/analytic_security.xml
+2017-11-28 06:53:40,631 1 INFO odoo11 odoo.modules.loading: loading analytic/security/ir.model.access.csv
+2017-11-28 06:53:40,745 1 INFO odoo11 odoo.modules.loading: loading analytic/views/analytic_account_views.xml
+2017-11-28 06:53:41,239 1 INFO odoo11 odoo.modules.loading: loading analytic/data/analytic_demo.xml
+2017-11-28 06:53:41,252 1 INFO odoo11 odoo.modules.loading: loading analytic/data/analytic_account_demo.xml
+2017-11-28 06:53:42,057 1 INFO odoo11 odoo.modules.registry: module auth_signup: creating or updating database tables
+2017-11-28 06:53:42,084 1 INFO odoo11 odoo.addons.auth_crypt.models.res_users: Hashing passwords, may be slow for databases with many users...
+2017-11-28 06:53:42,253 1 INFO odoo11 odoo.modules.loading: loading auth_signup/data/auth_signup_data.xml
+2017-11-28 06:53:42,441 1 INFO odoo11 odoo.modules.loading: loading auth_signup/views/res_config_settings_views.xml
+2017-11-28 06:53:42,630 1 INFO odoo11 odoo.modules.loading: loading auth_signup/views/res_users_views.xml
+2017-11-28 06:53:42,678 1 INFO odoo11 odoo.modules.loading: loading auth_signup/views/auth_signup_login_templates.xml
+2017-11-28 06:53:42,753 1 INFO odoo11 odoo.modules.loading: loading auth_signup/views/auth_signup_assets.xml
+2017-11-28 06:53:43,119 1 INFO odoo11 odoo.modules.registry: module fetchmail: creating or updating database tables
+2017-11-28 06:53:43,575 1 INFO odoo11 odoo.modules.loading: loading fetchmail/data/fetchmail_data.xml
+2017-11-28 06:53:43,601 1 INFO odoo11 odoo.modules.loading: loading fetchmail/security/ir.model.access.csv
+2017-11-28 06:53:43,614 1 INFO odoo11 odoo.modules.loading: loading fetchmail/views/fetchmail_views.xml
+2017-11-28 06:53:43,680 1 INFO odoo11 odoo.modules.loading: loading fetchmail/views/mail_mail_views.xml
+2017-11-28 06:53:43,711 1 INFO odoo11 odoo.modules.loading: loading fetchmail/views/res_config_settings_views.xml
+2017-11-28 06:53:43,879 1 INFO odoo11 odoo.modules.registry: module portal: creating or updating database tables
+2017-11-28 06:53:44,318 1 INFO odoo11 odoo.addons.auth_crypt.models.res_users: Hashing passwords, may be slow for databases with many users...
+2017-11-28 06:53:44,556 1 INFO odoo11 odoo.modules.loading: loading portal/data/portal_data.xml
+2017-11-28 06:53:44,607 1 INFO odoo11 odoo.modules.loading: loading portal/views/assets.xml
+2017-11-28 06:53:44,730 1 INFO odoo11 odoo.modules.loading: loading portal/views/portal_templates.xml
+2017-11-28 06:53:44,961 1 INFO odoo11 odoo.modules.loading: loading portal/wizard/portal_wizard_views.xml
+2017-11-28 06:53:45,294 1 INFO odoo11 odoo.modules.registry: module product: creating or updating database tables
+2017-11-28 06:53:45,820 1 INFO odoo11 odoo.models: Computing parent left and right for table product_category...
+2017-11-28 06:53:48,606 1 INFO odoo11 odoo.addons.auth_crypt.models.res_users: Hashing passwords, may be slow for databases with many users...
+2017-11-28 06:53:48,722 1 INFO odoo11 odoo.models: Storing computed values of product.template.volume
+2017-11-28 06:53:48,723 1 INFO odoo11 odoo.models: Storing computed values of product.template.weight
+2017-11-28 06:53:48,727 1 INFO odoo11 odoo.models: Storing computed values of product.template.default_code
+2017-11-28 06:53:48,728 1 INFO odoo11 odoo.models: Storing computed values of product.template.activity_date_deadline
+2017-11-28 06:53:48,748 1 INFO odoo11 odoo.models: Storing computed values of product.category.complete_name
+2017-11-28 06:53:48,878 1 INFO odoo11 odoo.models: Storing computed values of product.product.activity_date_deadline
+2017-11-28 06:53:49,136 1 INFO odoo11 odoo.models: Storing computed values of product.pricelist.item.company_id
+2017-11-28 06:53:49,138 1 INFO odoo11 odoo.models: Storing computed values of product.pricelist.item.currency_id
+2017-11-28 06:53:49,964 1 INFO odoo11 odoo.modules.loading: loading product/data/product_data.xml
+2017-11-28 06:53:50,091 1 INFO odoo11 odoo.modules.loading: loading product/security/product_security.xml
+2017-11-28 06:53:50,561 1 INFO odoo11 odoo.modules.loading: loading product/security/ir.model.access.csv
+2017-11-28 06:53:50,700 1 INFO odoo11 odoo.modules.loading: loading product/wizard/product_price_list_views.xml
+2017-11-28 06:53:50,768 1 INFO odoo11 odoo.modules.loading: loading product/views/res_config_settings_views.xml
+2017-11-28 06:53:50,813 1 INFO odoo11 odoo.modules.loading: loading product/views/product_attribute_views.xml
+2017-11-28 06:53:50,912 1 INFO odoo11 odoo.modules.loading: loading product/views/product_uom_views.xml
+2017-11-28 06:53:51,103 1 INFO odoo11 odoo.modules.loading: loading product/views/product_views.xml
+2017-11-28 06:53:51,556 1 INFO odoo11 odoo.modules.loading: loading product/views/product_template_views.xml
+2017-11-28 06:53:51,667 1 INFO odoo11 odoo.modules.loading: loading product/views/product_pricelist_views.xml
+2017-11-28 06:53:51,846 1 INFO odoo11 odoo.modules.loading: loading product/views/res_partner_views.xml
+2017-11-28 06:53:51,895 1 INFO odoo11 odoo.modules.loading: loading product/report/product_reports.xml
+2017-11-28 06:53:51,918 1 INFO odoo11 odoo.modules.loading: loading product/report/product_pricelist_templates.xml
+2017-11-28 06:53:51,942 1 INFO odoo11 odoo.modules.loading: loading product/report/product_product_templates.xml
+2017-11-28 06:53:51,981 1 INFO odoo11 odoo.modules.loading: loading product/report/product_template_templates.xml
+2017-11-28 06:53:52,007 1 INFO odoo11 odoo.modules.loading: loading product/data/product_demo.xml
+2017-11-28 06:53:54,649 1 INFO odoo11 odoo.modules.loading: loading product/data/product_image_demo.xml
+2017-11-28 06:53:56,701 1 INFO odoo11 odoo.modules.registry: module sales_team: creating or updating database tables
+2017-11-28 06:53:57,009 1 INFO odoo11 odoo.addons.auth_crypt.models.res_users: Hashing passwords, may be slow for databases with many users...
+2017-11-28 06:53:57,381 1 INFO odoo11 odoo.modules.loading: loading sales_team/security/sales_team_security.xml
+2017-11-28 06:53:57,974 1 INFO odoo11 odoo.modules.loading: loading sales_team/security/ir.model.access.csv
+2017-11-28 06:53:58,020 1 INFO odoo11 odoo.modules.loading: loading sales_team/data/sales_team_data.xml
+2017-11-28 06:53:58,263 1 INFO odoo11 odoo.modules.loading: loading sales_team/views/crm_team_views.xml
+2017-11-28 06:53:58,452 1 INFO odoo11 odoo.modules.loading: loading sales_team/views/sales_team_dashboard.xml
+2017-11-28 06:53:58,573 1 INFO odoo11 odoo.modules.loading: loading sales_team/data/sales_team_demo.xml
+2017-11-28 06:53:59,047 1 INFO odoo11 odoo.modules.registry: module sms: creating or updating database tables
+2017-11-28 06:53:59,290 1 INFO odoo11 odoo.addons.auth_crypt.models.res_users: Hashing passwords, may be slow for databases with many users...
+2017-11-28 06:53:59,433 1 INFO odoo11 odoo.modules.loading: loading sms/wizard/send_sms_views.xml
+2017-11-28 06:53:59,469 1 INFO odoo11 odoo.modules.loading: loading sms/views/res_partner_views.xml
+2017-11-28 06:53:59,891 1 INFO odoo11 odoo.modules.registry: module account: creating or updating database tables
+2017-11-28 06:54:02,659 1 INFO odoo11 odoo.models: Computing parent left and right for table account_group...
+2017-11-28 06:54:20,945 1 INFO odoo11 odoo.addons.auth_crypt.models.res_users: Hashing passwords, may be slow for databases with many users...
+2017-11-28 06:54:21,177 1 INFO odoo11 odoo.models: Storing computed values of account.account.internal_type
+2017-11-28 06:54:21,311 1 INFO odoo11 odoo.models: Storing computed values of account.journal.at_least_one_inbound
+2017-11-28 06:54:21,312 1 INFO odoo11 odoo.models: Storing computed values of account.journal.at_least_one_outbound
+2017-11-28 06:54:21,632 1 INFO odoo11 odoo.models: Storing computed values of account.payment.company_id
+2017-11-28 06:54:21,748 1 INFO odoo11 odoo.models: Storing computed values of account.invoice.number
+2017-11-28 06:54:21,755 1 INFO odoo11 odoo.models: Storing computed values of account.invoice.amount_untaxed
+2017-11-28 06:54:21,756 1 INFO odoo11 odoo.models: Storing computed values of account.invoice.amount_untaxed_signed
+2017-11-28 06:54:21,756 1 INFO odoo11 odoo.models: Storing computed values of account.invoice.amount_tax
+2017-11-28 06:54:21,756 1 INFO odoo11 odoo.models: Storing computed values of account.invoice.amount_total
+2017-11-28 06:54:21,757 1 INFO odoo11 odoo.models: Storing computed values of account.invoice.amount_total_signed
+2017-11-28 06:54:21,757 1 INFO odoo11 odoo.models: Storing computed values of account.invoice.amount_total_company_signed
+2017-11-28 06:54:21,764 1 INFO odoo11 odoo.models: Storing computed values of account.invoice.reconciled
+2017-11-28 06:54:21,767 1 INFO odoo11 odoo.models: Storing computed values of account.invoice.residual
+2017-11-28 06:54:21,768 1 INFO odoo11 odoo.models: Storing computed values of account.invoice.residual_signed
+2017-11-28 06:54:21,769 1 INFO odoo11 odoo.models: Storing computed values of account.invoice.residual_company_signed
+2017-11-28 06:54:21,776 1 INFO odoo11 odoo.models: Storing computed values of account.invoice.payment_move_line_ids
+2017-11-28 06:54:21,782 1 INFO odoo11 odoo.models: Storing computed values of account.invoice.commercial_partner_id
+2017-11-28 06:54:21,785 1 INFO odoo11 odoo.models: Storing computed values of account.invoice.activity_date_deadline
+2017-11-28 06:54:21,844 1 INFO odoo11 odoo.models: Storing computed values of account.invoice.line.price_subtotal
+2017-11-28 06:54:21,845 1 INFO odoo11 odoo.models: Storing computed values of account.invoice.line.price_total
+2017-11-28 06:54:21,846 1 INFO odoo11 odoo.models: Storing computed values of account.invoice.line.price_subtotal_signed
+2017-11-28 06:54:21,866 1 INFO odoo11 odoo.models: Storing computed values of account.invoice.line.company_id
+2017-11-28 06:54:21,868 1 INFO odoo11 odoo.models: Storing computed values of account.invoice.line.partner_id
+2017-11-28 06:54:21,871 1 INFO odoo11 odoo.models: Storing computed values of account.invoice.line.currency_id
+2017-11-28 06:54:21,919 1 INFO odoo11 odoo.models: Storing computed values of account.invoice.tax.company_id
+2017-11-28 06:54:21,921 1 INFO odoo11 odoo.models: Storing computed values of account.invoice.tax.currency_id
+2017-11-28 06:54:21,922 1 INFO odoo11 odoo.models: Storing computed values of account.invoice.tax.base
+2017-11-28 06:54:22,118 1 INFO odoo11 odoo.models: Storing computed values of account.bank.statement.company_id
+2017-11-28 06:54:22,119 1 INFO odoo11 odoo.models: Storing computed values of account.bank.statement.total_entry_encoding
+2017-11-28 06:54:22,119 1 INFO odoo11 odoo.models: Storing computed values of account.bank.statement.balance_end
+2017-11-28 06:54:22,120 1 INFO odoo11 odoo.models: Storing computed values of account.bank.statement.difference
+2017-11-28 06:54:22,184 1 INFO odoo11 odoo.models: Storing computed values of account.bank.statement.line.journal_id
+2017-11-28 06:54:22,186 1 INFO odoo11 odoo.models: Storing computed values of account.bank.statement.line.company_id
+2017-11-28 06:54:22,224 1 INFO odoo11 odoo.models: Storing computed values of account.move.currency_id
+2017-11-28 06:54:22,226 1 INFO odoo11 odoo.models: Storing computed values of account.move.partner_id
+2017-11-28 06:54:22,226 1 INFO odoo11 odoo.models: Storing computed values of account.move.amount
+2017-11-28 06:54:22,228 1 INFO odoo11 odoo.models: Storing computed values of account.move.company_id
+2017-11-28 06:54:22,228 1 INFO odoo11 odoo.models: Storing computed values of account.move.matched_percentage
+2017-11-28 06:54:22,316 1 INFO odoo11 odoo.models: Storing computed values of account.move.line.balance
+2017-11-28 06:54:22,316 1 INFO odoo11 odoo.models: Storing computed values of account.move.line.debit_cash_basis
+2017-11-28 06:54:22,317 1 INFO odoo11 odoo.models: Storing computed values of account.move.line.credit_cash_basis
+2017-11-28 06:54:22,318 1 INFO odoo11 odoo.models: Storing computed values of account.move.line.balance_cash_basis
+2017-11-28 06:54:22,320 1 INFO odoo11 odoo.models: Storing computed values of account.move.line.company_currency_id
+2017-11-28 06:54:22,323 1 INFO odoo11 odoo.models: Storing computed values of account.move.line.amount_residual
+2017-11-28 06:54:22,324 1 INFO odoo11 odoo.models: Storing computed values of account.move.line.amount_residual_currency
+2017-11-28 06:54:22,325 1 INFO odoo11 odoo.models: Storing computed values of account.move.line.tax_base_amount
+2017-11-28 06:54:22,329 1 INFO odoo11 odoo.models: Storing computed values of account.move.line.ref
+2017-11-28 06:54:22,334 1 INFO odoo11 odoo.models: Storing computed values of account.move.line.statement_id
+2017-11-28 06:54:22,334 1 INFO odoo11 odoo.models: Storing computed values of account.move.line.reconciled
+2017-11-28 06:54:22,339 1 INFO odoo11 odoo.models: Storing computed values of account.move.line.journal_id
+2017-11-28 06:54:22,340 1 INFO odoo11 odoo.models: Storing computed values of account.move.line.date
+2017-11-28 06:54:22,358 1 INFO odoo11 odoo.models: Storing computed values of account.move.line.company_id
+2017-11-28 06:54:22,363 1 INFO odoo11 odoo.models: Storing computed values of account.move.line.user_type_id
+2017-11-28 06:54:22,398 1 INFO odoo11 odoo.models: Storing computed values of account.partial.reconcile.company_id
+2017-11-28 06:54:22,400 1 INFO odoo11 odoo.models: Storing computed values of account.partial.reconcile.max_date
+2017-11-28 06:54:22,858 1 INFO odoo11 odoo.models: Storing computed values of account.analytic.line.general_account_id
+2017-11-28 06:54:22,862 1 INFO odoo11 odoo.models: Storing computed values of account.analytic.line.currency_id
+2017-11-28 06:54:22,862 1 INFO odoo11 odoo.models: Storing computed values of account.analytic.line.amount_currency
+2017-11-28 06:54:23,790 1 INFO odoo11 odoo.models: Storing computed values of account.financial.report.level
+2017-11-28 06:54:24,262 1 INFO odoo11 odoo.modules.loading: loading account/security/account_security.xml
+2017-11-28 06:54:24,874 1 INFO odoo11 odoo.modules.loading: loading account/security/ir.model.access.csv
+2017-11-28 06:54:25,523 1 INFO odoo11 odoo.modules.loading: loading account/data/data_account_type.xml
+2017-11-28 06:54:25,617 1 INFO odoo11 odoo.modules.loading: loading account/data/account_data.xml
+2017-11-28 06:54:25,732 1 INFO odoo11 odoo.modules.loading: loading account/views/account_menuitem.xml
+2017-11-28 06:54:25,949 1 INFO odoo11 odoo.modules.loading: loading account/views/account_payment_view.xml
+2017-11-28 06:54:26,338 1 INFO odoo11 odoo.modules.loading: loading account/wizard/account_reconcile_view.xml
+2017-11-28 06:54:27,044 1 INFO odoo11 odoo.modules.loading: loading account/wizard/account_unreconcile_view.xml
+2017-11-28 06:54:27,067 1 INFO odoo11 odoo.modules.loading: loading account/wizard/account_move_reversal_view.xml
+2017-11-28 06:54:27,138 1 INFO odoo11 odoo.modules.loading: loading account/views/account_view.xml
+2017-11-28 06:54:28,944 1 INFO odoo11 odoo.modules.loading: loading account/views/account_report.xml
+2017-11-28 06:54:29,009 1 INFO odoo11 odoo.modules.loading: loading account/data/mail_template_data.xml
+2017-11-28 06:54:29,076 1 INFO odoo11 odoo.modules.loading: loading account/wizard/account_invoice_refund_view.xml
+2017-11-28 06:54:29,135 1 INFO odoo11 odoo.modules.loading: loading account/wizard/account_validate_move_view.xml
+2017-11-28 06:54:29,186 1 INFO odoo11 odoo.modules.loading: loading account/wizard/account_invoice_state_view.xml
+2017-11-28 06:54:29,210 1 INFO odoo11 odoo.modules.loading: loading account/wizard/pos_box.xml
+2017-11-28 06:54:29,257 1 INFO odoo11 odoo.modules.loading: loading account/views/account_end_fy.xml
+2017-11-28 06:54:29,258 1 INFO odoo11 odoo.modules.loading: loading account/views/account_invoice_view.xml
+2017-11-28 06:54:29,767 1 INFO odoo11 odoo.modules.loading: loading account/views/partner_view.xml
+2017-11-28 06:54:30,154 1 INFO odoo11 odoo.modules.loading: loading account/views/product_view.xml
+2017-11-28 06:54:30,332 1 INFO odoo11 odoo.modules.loading: loading account/views/account_analytic_view.xml
+2017-11-28 06:54:30,469 1 INFO odoo11 odoo.modules.loading: loading account/views/account_tip_data.xml
+2017-11-28 06:54:30,471 1 INFO odoo11 odoo.modules.loading: loading account/views/account.xml
+2017-11-28 06:54:30,568 1 INFO odoo11 odoo.modules.loading: loading account/views/report_invoice.xml
+2017-11-28 06:54:30,659 1 INFO odoo11 odoo.modules.loading: loading account/report/account_invoice_report_view.xml
+2017-11-28 06:54:30,778 1 INFO odoo11 odoo.modules.loading: loading account/views/report_overdue.xml
+2017-11-28 06:54:30,842 1 INFO odoo11 odoo.modules.loading: loading account/views/account_cash_rounding_view.xml
+2017-11-28 06:54:30,918 1 INFO odoo11 odoo.modules.loading: loading account/wizard/account_report_common_view.xml
+2017-11-28 06:54:30,983 1 INFO odoo11 odoo.modules.loading: loading account/wizard/account_report_print_journal_view.xml
+2017-11-28 06:54:31,028 1 INFO odoo11 odoo.modules.loading: loading account/views/report_journal.xml
+2017-11-28 06:54:31,050 1 INFO odoo11 odoo.modules.loading: loading account/wizard/account_report_partner_ledger_view.xml
+2017-11-28 06:54:31,119 1 INFO odoo11 odoo.modules.loading: loading account/views/report_partnerledger.xml
+2017-11-28 06:54:31,144 1 INFO odoo11 odoo.modules.loading: loading account/wizard/account_report_general_ledger_view.xml
+2017-11-28 06:54:31,187 1 INFO odoo11 odoo.modules.loading: loading account/views/report_generalledger.xml
+2017-11-28 06:54:31,211 1 INFO odoo11 odoo.modules.loading: loading account/wizard/account_report_trial_balance_view.xml
+2017-11-28 06:54:31,251 1 INFO odoo11 odoo.modules.loading: loading account/views/report_trialbalance.xml
+2017-11-28 06:54:31,278 1 INFO odoo11 odoo.modules.loading: loading account/views/account_financial_report_data.xml
+2017-11-28 06:54:31,354 1 INFO odoo11 odoo.modules.loading: loading account/wizard/account_financial_report_view.xml
+2017-11-28 06:54:31,428 1 INFO odoo11 odoo.modules.loading: loading account/views/report_financial.xml
+2017-11-28 06:54:31,450 1 INFO odoo11 odoo.modules.loading: loading account/wizard/account_report_aged_partner_balance_view.xml
+2017-11-28 06:54:31,480 1 INFO odoo11 odoo.modules.loading: loading account/views/report_agedpartnerbalance.xml
+2017-11-28 06:54:31,500 1 INFO odoo11 odoo.modules.loading: loading account/views/tax_adjustments.xml
+2017-11-28 06:54:31,513 1 INFO odoo11 odoo.modules.loading: loading account/wizard/wizard_tax_adjustments_view.xml
+2017-11-28 06:54:31,534 1 INFO odoo11 odoo.modules.loading: loading account/views/res_config_settings_views.xml
+2017-11-28 06:54:31,629 1 INFO odoo11 odoo.modules.loading: loading account/views/web_planner_data.xml
+2017-11-28 06:54:31,676 1 INFO odoo11 odoo.modules.loading: loading account/views/account_journal_dashboard_view.xml
+2017-11-28 06:54:32,095 1 INFO odoo11 odoo.modules.loading: loading account/views/account_portal_templates.xml
+2017-11-28 06:54:32,254 1 INFO odoo11 odoo.modules.loading: loading account/report/account_report_payment_receipt_templates.xml
+2017-11-28 06:54:32,654 1 INFO odoo11 odoo.modules.loading: loading account/data/payment_receipt_data.xml
+2017-11-28 06:54:32,712 1 INFO odoo11 odoo.modules.loading: loading account/wizard/setup_wizards_view.xml
+2017-11-28 06:54:32,928 1 INFO odoo11 odoo.modules.loading: loading account/views/account_dashboard_setup_bar.xml
+2017-11-28 06:54:33,041 1 INFO odoo11 odoo.modules.loading: loading account/wizard/account_report_tax_view.xml
+2017-11-28 06:54:33,084 1 INFO odoo11 odoo.modules.loading: loading account/views/report_tax.xml
+2017-11-28 06:54:33,107 1 INFO odoo11 odoo.modules.loading: loading account/demo/account_demo.xml
+2017-11-28 06:54:33,796 1 INFO odoo11 odoo.addons.base.module.module: ALLOW access to module.button_install on ['account_check_printing', 'l10n_us'] to user admin #1 via 172.24.0.1
+2017-11-28 06:54:35,282 1 INFO odoo11 odoo.modules.registry: module account_bank_statement_import: creating or updating database tables
+2017-11-28 06:54:35,748 1 INFO odoo11 odoo.modules.loading: loading account_bank_statement_import/account_bank_statement_import_view.xml
+2017-11-28 06:54:35,847 1 INFO odoo11 odoo.modules.loading: loading account_bank_statement_import/account_import_tip_data.xml
+2017-11-28 06:54:35,848 1 INFO odoo11 odoo.modules.loading: loading account_bank_statement_import/wizard/journal_creation.xml
+2017-11-28 06:54:35,871 1 INFO odoo11 odoo.modules.loading: loading account_bank_statement_import/demo/partner_bank.xml
+2017-11-28 06:54:36,055 1 INFO odoo11 odoo.modules.registry: module account_invoicing: creating or updating database tables
+2017-11-28 06:54:36,077 1 INFO odoo11 odoo.modules.loading: loading account_invoicing/views/account_menuitem_views.xml
+2017-11-28 06:54:36,091 1 INFO odoo11 odoo.modules.loading: loading account_invoicing/views/product_template_views.xml
+2017-11-28 06:54:36,140 1 INFO odoo11 odoo.modules.loading: loading account_invoicing/views/account_invoicing_templates.xml
+2017-11-28 06:54:36,193 1 INFO odoo11 odoo.modules.loading: loading account_invoicing/views/account_invoicing_views.xml
+2017-11-28 06:54:36,501 1 INFO odoo11 odoo.modules.registry: module payment: creating or updating database tables
+2017-11-28 06:54:37,731 1 INFO odoo11 odoo.addons.auth_crypt.models.res_users: Hashing passwords, may be slow for databases with many users...
+2017-11-28 06:54:38,084 1 INFO odoo11 odoo.modules.loading: loading payment/data/account_data.xml
+2017-11-28 06:54:38,110 1 INFO odoo11 odoo.modules.loading: loading payment/data/payment_icon_data.xml
+2017-11-28 06:54:38,369 1 INFO odoo11 odoo.modules.loading: loading payment/data/payment_acquirer_data.xml
+2017-11-28 06:54:38,730 1 INFO odoo11 odoo.modules.loading: loading payment/views/payment_views.xml
+2017-11-28 06:54:39,003 1 INFO odoo11 odoo.modules.loading: loading payment/views/account_payment_views.xml
+2017-11-28 06:54:39,067 1 INFO odoo11 odoo.modules.loading: loading payment/views/payment_templates.xml
+2017-11-28 06:54:39,143 1 INFO odoo11 odoo.modules.loading: loading payment/views/payment_portal_templates.xml
+2017-11-28 06:54:39,214 1 INFO odoo11 odoo.modules.loading: loading payment/views/assets.xml
+2017-11-28 06:54:39,246 1 INFO odoo11 odoo.modules.loading: loading payment/views/res_partner_views.xml
+2017-11-28 06:54:39,311 1 INFO odoo11 odoo.modules.loading: loading payment/security/ir.model.access.csv
+2017-11-28 06:54:39,437 1 INFO odoo11 odoo.modules.loading: loading payment/security/payment_security.xml
+2017-11-28 06:54:39,907 1 INFO odoo11 odoo.modules.registry: module sale: creating or updating database tables
+2017-11-28 06:54:41,879 1 INFO odoo11 odoo.addons.auth_crypt.models.res_users: Hashing passwords, may be slow for databases with many users...
+2017-11-28 06:54:42,208 1 INFO odoo11 odoo.models: Storing computed values of sale.order.invoice_status
+2017-11-28 06:54:42,209 1 INFO odoo11 odoo.models: Storing computed values of sale.order.amount_untaxed
+2017-11-28 06:54:42,210 1 INFO odoo11 odoo.models: Storing computed values of sale.order.amount_tax
+2017-11-28 06:54:42,210 1 INFO odoo11 odoo.models: Storing computed values of sale.order.amount_total
+2017-11-28 06:54:42,218 1 INFO odoo11 odoo.models: Storing computed values of sale.order.activity_date_deadline
+2017-11-28 06:54:42,305 1 INFO odoo11 odoo.models: Storing computed values of sale.order.line.invoice_status
+2017-11-28 06:54:42,305 1 INFO odoo11 odoo.models: Storing computed values of sale.order.line.price_subtotal
+2017-11-28 06:54:42,306 1 INFO odoo11 odoo.models: Storing computed values of sale.order.line.price_tax
+2017-11-28 06:54:42,307 1 INFO odoo11 odoo.models: Storing computed values of sale.order.line.price_total
+2017-11-28 06:54:42,308 1 INFO odoo11 odoo.models: Storing computed values of sale.order.line.price_reduce
+2017-11-28 06:54:42,315 1 INFO odoo11 odoo.models: Storing computed values of sale.order.line.price_reduce_taxinc
+2017-11-28 06:54:42,316 1 INFO odoo11 odoo.models: Storing computed values of sale.order.line.price_reduce_taxexcl
+2017-11-28 06:54:42,320 1 INFO odoo11 odoo.models: Storing computed values of sale.order.line.qty_to_invoice
+2017-11-28 06:54:42,321 1 INFO odoo11 odoo.models: Storing computed values of sale.order.line.qty_invoiced
+2017-11-28 06:54:42,323 1 INFO odoo11 odoo.models: Storing computed values of sale.order.line.salesman_id
+2017-11-28 06:54:42,326 1 INFO odoo11 odoo.models: Storing computed values of sale.order.line.currency_id
+2017-11-28 06:54:42,328 1 INFO odoo11 odoo.models: Storing computed values of sale.order.line.company_id
+2017-11-28 06:54:42,330 1 INFO odoo11 odoo.models: Storing computed values of sale.order.line.order_partner_id
+2017-11-28 06:54:42,337 1 INFO odoo11 odoo.models: Storing computed values of sale.order.line.state
+2017-11-28 06:54:42,338 1 INFO odoo11 odoo.models: Storing computed values of sale.order.line.amt_to_invoice
+2017-11-28 06:54:42,338 1 INFO odoo11 odoo.models: Storing computed values of sale.order.line.amt_invoiced
+2017-11-28 06:54:42,689 1 INFO odoo11 odoo.modules.loading: loading sale/data/ir_sequence_data.xml
+2017-11-28 06:54:42,718 1 INFO odoo11 odoo.modules.loading: loading sale/data/sale_data.xml
+2017-11-28 06:54:42,788 1 INFO odoo11 odoo.modules.loading: loading sale/report/sale_report.xml
+2017-11-28 06:54:42,841 1 INFO odoo11 odoo.modules.loading: loading sale/data/mail_template_data.xml
+2017-11-28 06:54:42,889 1 INFO odoo11 odoo.modules.loading: loading sale/report/sale_report_views.xml
+2017-11-28 06:54:42,960 1 INFO odoo11 odoo.modules.loading: loading sale/report/sale_report_templates.xml
+2017-11-28 06:54:43,012 1 INFO odoo11 odoo.modules.loading: loading sale/report/invoice_report_templates.xml
+2017-11-28 06:54:43,099 1 INFO odoo11 odoo.modules.loading: loading sale/report/report_all_channels_sales_views.xml
+2017-11-28 06:54:43,135 1 INFO odoo11 odoo.modules.loading: loading sale/security/sale_security.xml
+2017-11-28 06:54:44,451 1 INFO odoo11 odoo.modules.loading: loading sale/security/ir.model.access.csv
+2017-11-28 06:54:44,896 1 INFO odoo11 odoo.modules.loading: loading sale/wizard/sale_make_invoice_advance_views.xml
+2017-11-28 06:54:45,029 1 INFO odoo11 odoo.modules.loading: loading sale/views/sale_views.xml
+2017-11-28 06:54:45,971 1 INFO odoo11 odoo.modules.loading: loading sale/views/account_invoice_views.xml
+2017-11-28 06:54:46,118 1 INFO odoo11 odoo.modules.loading: loading sale/views/sales_team_views.xml
+2017-11-28 06:54:46,240 1 INFO odoo11 odoo.modules.loading: loading sale/views/res_partner_views.xml
+2017-11-28 06:54:46,339 1 INFO odoo11 odoo.modules.loading: loading sale/views/assets.xml
+2017-11-28 06:54:46,433 1 INFO odoo11 odoo.modules.loading: loading sale/views/sale_portal_templates.xml
+2017-11-28 06:54:46,612 1 INFO odoo11 odoo.modules.loading: loading sale/views/sale_layout_category_view.xml
+2017-11-28 06:54:46,801 1 INFO odoo11 odoo.modules.loading: loading sale/views/res_config_settings_views.xml
+2017-11-28 06:54:46,923 1 INFO odoo11 odoo.modules.loading: loading sale/data/sale_demo.xml
+2017-11-28 06:54:47,118 1 INFO odoo11 odoo.tests: skip sending email in test mode
+2017-11-28 06:54:47,120 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Mail with ID 7 and Message-Id '<298268847099045.1511852087.102906227111816-openerp-1-sale.order@532b94f00fc1>' successfully sent
+2017-11-28 06:54:47,129 1 INFO odoo11 odoo.models.unlink: User #1 deleted mail.mail records with IDs: [7]
+2017-11-28 06:54:47,140 1 INFO odoo11 odoo.models.unlink: User #1 deleted mail.message records with IDs: [141]
+2017-11-28 06:54:47,140 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Sent batch 1 emails via mail server ID #False
+2017-11-28 06:54:47,939 1 INFO odoo11 odoo.tests: skip sending email in test mode
+2017-11-28 06:54:47,942 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Mail with ID 8 and Message-Id '<768877419548409.1511852087.929741382598877-openerp-5-sale.order@532b94f00fc1>' successfully sent
+2017-11-28 06:54:47,950 1 INFO odoo11 odoo.models.unlink: User #1 deleted mail.mail records with IDs: [8]
+2017-11-28 06:54:47,960 1 INFO odoo11 odoo.models.unlink: User #1 deleted mail.message records with IDs: [150]
+2017-11-28 06:54:47,960 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Sent batch 1 emails via mail server ID #False
+2017-11-28 06:54:48,612 1 INFO odoo11 odoo.tests: skip sending email in test mode
+2017-11-28 06:54:48,614 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Mail with ID 9 and Message-Id '<608735334528691.1511852088.603144645690918-openerp-8-sale.order@532b94f00fc1>' successfully sent
+2017-11-28 06:54:48,623 1 INFO odoo11 odoo.models.unlink: User #1 deleted mail.mail records with IDs: [9]
+2017-11-28 06:54:48,633 1 INFO odoo11 odoo.models.unlink: User #1 deleted mail.message records with IDs: [161]
+2017-11-28 06:54:48,633 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Sent batch 1 emails via mail server ID #False
+2017-11-28 06:54:48,803 1 INFO odoo11 odoo.tests: skip sending email in test mode
+2017-11-28 06:54:48,805 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Mail with ID 10 and Message-Id '<645560087540733.1511852088.791206598281860-openerp-9-sale.order@532b94f00fc1>' successfully sent
+2017-11-28 06:54:48,815 1 INFO odoo11 odoo.models.unlink: User #1 deleted mail.mail records with IDs: [10]
+2017-11-28 06:54:48,826 1 INFO odoo11 odoo.models.unlink: User #1 deleted mail.message records with IDs: [164]
+2017-11-28 06:54:48,826 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Sent batch 1 emails via mail server ID #False
+2017-11-28 06:54:49,015 1 INFO odoo11 odoo.tests: skip sending email in test mode
+2017-11-28 06:54:49,017 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Mail with ID 11 and Message-Id '<659221864671314.1511852089.005249261856079-openerp-10-sale.order@532b94f00fc1>' successfully sent
+2017-11-28 06:54:49,025 1 INFO odoo11 odoo.models.unlink: User #1 deleted mail.mail records with IDs: [11]
+2017-11-28 06:54:49,035 1 INFO odoo11 odoo.models.unlink: User #1 deleted mail.message records with IDs: [167]
+2017-11-28 06:54:49,035 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Sent batch 1 emails via mail server ID #False
+2017-11-28 06:54:49,224 1 INFO odoo11 odoo.tests: skip sending email in test mode
+2017-11-28 06:54:49,226 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Mail with ID 12 and Message-Id '<516397542058798.1511852089.213667154312134-openerp-11-sale.order@532b94f00fc1>' successfully sent
+2017-11-28 06:54:49,235 1 INFO odoo11 odoo.models.unlink: User #1 deleted mail.mail records with IDs: [12]
+2017-11-28 06:54:49,245 1 INFO odoo11 odoo.models.unlink: User #1 deleted mail.message records with IDs: [170]
+2017-11-28 06:54:49,245 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Sent batch 1 emails via mail server ID #False
+2017-11-28 06:54:49,440 1 INFO odoo11 odoo.tests: skip sending email in test mode
+2017-11-28 06:54:49,443 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Mail with ID 13 and Message-Id '<334875668127739.1511852089.429618597030640-openerp-12-sale.order@532b94f00fc1>' successfully sent
+2017-11-28 06:54:49,451 1 INFO odoo11 odoo.models.unlink: User #1 deleted mail.mail records with IDs: [13]
+2017-11-28 06:54:49,461 1 INFO odoo11 odoo.models.unlink: User #1 deleted mail.message records with IDs: [173]
+2017-11-28 06:54:49,461 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Sent batch 1 emails via mail server ID #False
+2017-11-28 06:54:49,644 1 INFO odoo11 odoo.tests: skip sending email in test mode
+2017-11-28 06:54:49,647 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Mail with ID 14 and Message-Id '<387055830538469.1511852089.630532264709473-openerp-13-sale.order@532b94f00fc1>' successfully sent
+2017-11-28 06:54:49,658 1 INFO odoo11 odoo.models.unlink: User #1 deleted mail.mail records with IDs: [14]
+2017-11-28 06:54:49,668 1 INFO odoo11 odoo.models.unlink: User #1 deleted mail.message records with IDs: [176]
+2017-11-28 06:54:49,668 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Sent batch 1 emails via mail server ID #False
+2017-11-28 06:54:49,918 1 INFO odoo11 odoo.tests: skip sending email in test mode
+2017-11-28 06:54:49,921 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Mail with ID 15 and Message-Id '<633019423909413.1511852089.903455018997192-openerp-14-sale.order@532b94f00fc1>' successfully sent
+2017-11-28 06:54:49,932 1 INFO odoo11 odoo.models.unlink: User #1 deleted mail.mail records with IDs: [15]
+2017-11-28 06:54:49,945 1 INFO odoo11 odoo.models.unlink: User #1 deleted mail.message records with IDs: [179]
+2017-11-28 06:54:49,945 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Sent batch 1 emails via mail server ID #False
+2017-11-28 06:54:50,166 1 INFO odoo11 odoo.tests: skip sending email in test mode
+2017-11-28 06:54:50,169 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Mail with ID 16 and Message-Id '<826731522396568.1511852090.155939817428589-openerp-15-sale.order@532b94f00fc1>' successfully sent
+2017-11-28 06:54:50,179 1 INFO odoo11 odoo.models.unlink: User #1 deleted mail.mail records with IDs: [16]
+2017-11-28 06:54:50,190 1 INFO odoo11 odoo.models.unlink: User #1 deleted mail.message records with IDs: [182]
+2017-11-28 06:54:50,190 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Sent batch 1 emails via mail server ID #False
+2017-11-28 06:54:50,397 1 INFO odoo11 odoo.tests: skip sending email in test mode
+2017-11-28 06:54:50,399 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Mail with ID 17 and Message-Id '<929676859077656.1511852090.382934570312500-openerp-16-sale.order@532b94f00fc1>' successfully sent
+2017-11-28 06:54:50,411 1 INFO odoo11 odoo.models.unlink: User #1 deleted mail.mail records with IDs: [17]
+2017-11-28 06:54:50,425 1 INFO odoo11 odoo.models.unlink: User #1 deleted mail.message records with IDs: [185]
+2017-11-28 06:54:50,425 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Sent batch 1 emails via mail server ID #False
+2017-11-28 06:54:50,660 1 INFO odoo11 odoo.tests: skip sending email in test mode
+2017-11-28 06:54:50,663 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Mail with ID 18 and Message-Id '<374651325352189.1511852090.646490335464478-openerp-17-sale.order@532b94f00fc1>' successfully sent
+2017-11-28 06:54:50,674 1 INFO odoo11 odoo.models.unlink: User #1 deleted mail.mail records with IDs: [18]
+2017-11-28 06:54:50,686 1 INFO odoo11 odoo.models.unlink: User #1 deleted mail.message records with IDs: [188]
+2017-11-28 06:54:50,686 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Sent batch 1 emails via mail server ID #False
+2017-11-28 06:54:50,907 1 INFO odoo11 odoo.tests: skip sending email in test mode
+2017-11-28 06:54:50,909 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Mail with ID 19 and Message-Id '<669859436447985.1511852090.896382808685303-openerp-18-sale.order@532b94f00fc1>' successfully sent
+2017-11-28 06:54:50,918 1 INFO odoo11 odoo.models.unlink: User #1 deleted mail.mail records with IDs: [19]
+2017-11-28 06:54:50,928 1 INFO odoo11 odoo.models.unlink: User #1 deleted mail.message records with IDs: [191]
+2017-11-28 06:54:50,929 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Sent batch 1 emails via mail server ID #False
+2017-11-28 06:54:52,659 1 INFO odoo11 odoo.modules.loading: loading sale/data/product_product_demo.xml
+2017-11-28 06:54:54,130 1 INFO odoo11 odoo.modules.registry: module payment_transfer: creating or updating database tables
+2017-11-28 06:54:54,257 1 INFO odoo11 odoo.modules.loading: loading payment_transfer/views/payment_views.xml
+2017-11-28 06:54:54,317 1 INFO odoo11 odoo.modules.loading: loading payment_transfer/views/payment_transfer_templates.xml
+2017-11-28 06:54:54,333 1 INFO odoo11 odoo.modules.loading: loading payment_transfer/data/payment_acquirer_data.xml
+2017-11-28 06:54:54,539 1 INFO odoo11 odoo.modules.registry: module sale_management: creating or updating database tables
+2017-11-28 06:54:54,574 1 INFO odoo11 odoo.modules.loading: loading sale_management/views/sale_management_views.xml
+2017-11-28 06:54:54,803 1 INFO odoo11 odoo.modules.loading: loading sale_management/views/sale_management_templates.xml
+2017-11-28 06:54:55,292 1 INFO odoo11 odoo.modules.loading: 30 modules loaded in 99.71s, 148 queries
+2017-11-28 06:54:55,304 1 INFO odoo11 odoo.modules.loading: loading 33 modules...
+2017-11-28 06:54:55,434 1 INFO odoo11 odoo.modules.registry: module account_check_printing: creating or updating database tables
+2017-11-28 06:54:55,745 1 INFO odoo11 odoo.modules.loading: loading account_check_printing/data/account_check_printing_data.xml
+2017-11-28 06:54:55,806 1 INFO odoo11 odoo.modules.loading: loading account_check_printing/views/account_journal_views.xml
+2017-11-28 06:54:55,912 1 INFO odoo11 odoo.modules.loading: loading account_check_printing/views/account_payment_views.xml
+2017-11-28 06:54:56,057 1 INFO odoo11 odoo.modules.loading: loading account_check_printing/wizard/print_prenumbered_checks_views.xml
+2017-11-28 06:54:56,588 1 INFO odoo11 odoo.modules.registry: module l10n_generic_coa: creating or updating database tables
+2017-11-28 06:54:56,597 1 INFO odoo11 odoo.modules.loading: loading l10n_generic_coa/data/account_data.xml
+2017-11-28 06:54:56,703 1 INFO odoo11 odoo.modules.loading: loading l10n_generic_coa/data/l10n_generic_coa_chart_data.xml
+2017-11-28 06:54:56,832 1 INFO odoo11 odoo.modules.loading: loading l10n_generic_coa/data/account_chart_template_data.yml
+2017-11-28 06:54:57,340 1 INFO odoo11 odoo.modules.loading: loading l10n_generic_coa/../account/demo/account_bank_statement.yml
+2017-11-28 06:54:57,487 1 INFO odoo11 odoo.modules.loading: loading l10n_generic_coa/../account/demo/account_invoice_demo.yml
+2017-11-28 06:54:58,332 1 INFO odoo11 odoo.tests: skip sending email in test mode
+2017-11-28 06:54:58,334 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Mail with ID 20 and Message-Id '<511136127077857.1511852098.316382646560669-openerp-1-account.invoice@532b94f00fc1>' successfully sent
+2017-11-28 06:54:58,344 1 INFO odoo11 odoo.models.unlink: User #1 deleted mail.mail records with IDs: [20]
+2017-11-28 06:54:58,356 1 INFO odoo11 odoo.models.unlink: User #1 deleted mail.message records with IDs: [217]
+2017-11-28 06:54:58,356 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Sent batch 1 emails via mail server ID #False
+2017-11-28 06:55:00,418 1 INFO odoo11 odoo.tests: skip sending email in test mode
+2017-11-28 06:55:00,421 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Mail with ID 21 and Message-Id '<346731596568333.1511852100.404411077499390-openerp-4-account.invoice@532b94f00fc1>' successfully sent
+2017-11-28 06:55:00,431 1 INFO odoo11 odoo.models.unlink: User #1 deleted mail.mail records with IDs: [21]
+2017-11-28 06:55:00,444 1 INFO odoo11 odoo.models.unlink: User #1 deleted mail.message records with IDs: [224]
+2017-11-28 06:55:00,444 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Sent batch 1 emails via mail server ID #False
+2017-11-28 06:55:01,225 1 INFO odoo11 odoo.tests: skip sending email in test mode
+2017-11-28 06:55:01,229 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Mail with ID 22 and Message-Id '<685755153802450.1511852101.212937831878662-openerp-5-account.invoice@532b94f00fc1>' successfully sent
+2017-11-28 06:55:01,240 1 INFO odoo11 odoo.models.unlink: User #1 deleted mail.mail records with IDs: [22]
+2017-11-28 06:55:01,255 1 INFO odoo11 odoo.models.unlink: User #1 deleted mail.message records with IDs: [227]
+2017-11-28 06:55:01,255 1 INFO odoo11 odoo.addons.mail.models.mail_mail: Sent batch 1 emails via mail server ID #False
+2017-11-28 06:55:03,233 1 INFO odoo11 odoo.modules.registry: module l10n_us: creating or updating database tables
+2017-11-28 06:55:03,445 1 INFO odoo11 odoo.modules.loading: loading l10n_us/data/res_company_data.xml
+2017-11-28 06:55:03,543 1 INFO odoo11 odoo.modules.loading: loading l10n_us/views/res_partner_bank_views.xml
+2017-11-28 06:55:04,077 1 INFO odoo11 odoo.modules.loading: 33 modules loaded in 8.77s, 6 queries
+2017-11-28 06:55:04,514 1 INFO odoo11 odoo.modules.loading: Modules loaded.
+2017-11-28 06:55:04,516 1 INFO odoo11 odoo.models: Computing parent left and right for table product_category...
+2017-11-28 06:55:04,518 1 INFO odoo11 odoo.models: Computing parent left and right for table ir_ui_menu...
+2017-11-28 06:55:04,678 1 INFO odoo11 odoo.addons.base.module.module: getting next ir.actions.todo()
+2017-11-28 06:55:04,686 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:55:04] "POST /web/dataset/call_button HTTP/1.1" 200 -
+2017-11-28 06:55:04,725 1 INFO odoo11 odoo.addons.base.ir.ir_http: Generating routing map
+2017-11-28 06:55:05,448 1 INFO odoo11 odoo.models.unlink: User #1 deleted ir.attachment records with IDs: [338]
+2017-11-28 06:55:07,146 1 INFO odoo11 odoo.models.unlink: User #1 deleted ir.attachment records with IDs: [340, 339]
+2017-11-28 06:55:07,701 1 INFO odoo11 odoo.models.unlink: User #1 deleted ir.attachment records with IDs: [343]
+2017-11-28 06:55:09,264 1 INFO odoo11 odoo.models.unlink: User #1 deleted ir.attachment records with IDs: [344]
+2017-11-28 06:55:09,414 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:55:09] "GET /web HTTP/1.1" 200 -
+2017-11-28 06:55:09,462 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:55:09] "GET /web/content/486-44d353d/web.assets_common.0.css HTTP/1.1" 200 -
+2017-11-28 06:55:09,475 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:55:09] "GET /web/content/488-785dfa1/web.assets_backend.1.css HTTP/1.1" 200 -
+2017-11-28 06:55:09,487 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:55:09] "GET /web/content/487-785dfa1/web.assets_backend.0.css HTTP/1.1" 200 -
+2017-11-28 06:55:09,489 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:55:09] "GET /web/content/489-44d353d/web.assets_common.js HTTP/1.1" 200 -
+2017-11-28 06:55:09,496 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:55:09] "GET /web/content/490-785dfa1/web.assets_backend.js HTTP/1.1" 200 -
+2017-11-28 06:55:09,888 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:55:09] "GET /web/webclient/qweb?mods=web,base,web_editor,web_planner,web_settings_dashboard,bus,web_tour,mail,product,portal,account,account_bank_statement_import,sales_team,sale,account_invoicing,sale_management,auth_signup,payment,payment_transfer,l10n_us,iap,web_kanban_gauge,web_diagram,base_import,account_check_printing HTTP/1.1" 200 -
+2017-11-28 06:55:09,902 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:55:09] "POST /web/dataset/call HTTP/1.1" 200 -
+2017-11-28 06:55:09,955 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:55:09] "POST /web/webclient/translations HTTP/1.1" 200 -
+2017-11-28 06:55:10,009 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:55:10] "POST /mail/client_action HTTP/1.1" 200 -
+2017-11-28 06:55:10,018 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:55:10] "POST /web/dataset/call_kw/res.users/activity_user_count HTTP/1.1" 200 -
+2017-11-28 06:55:10,027 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:55:10] "GET /web/image?model=res.users&field=image_small&id=1 HTTP/1.1" 304 -
+2017-11-28 06:55:10,030 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:55:10] "POST /web/dataset/call_kw/res.users/read HTTP/1.1" 200 -
+2017-11-28 06:55:10,046 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:55:10] "POST /web/dataset/call_kw/web.planner/search_read HTTP/1.1" 200 -
+2017-11-28 06:55:10,067 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:55:10] "POST /web/action/load HTTP/1.1" 200 -
+2017-11-28 06:55:10,119 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:55:10] "POST /web/dataset/call_kw/mail.message/load_views HTTP/1.1" 200 -
+2017-11-28 06:55:10,152 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:55:10] "POST /web/dataset/call_kw/ir.filters/get_filters HTTP/1.1" 200 -
+2017-11-28 06:55:10,220 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:55:10] "POST /web/dataset/call_kw/mail.message/message_fetch HTTP/1.1" 200 -
+2017-11-28 06:55:10,223 1 INFO ? odoo.addons.bus.models.bus: Bus.loop listen imbus on db postgres
+2017-11-28 06:55:10,356 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:55:10] "GET /web/static/src/img/mimetypes/document.png HTTP/1.1" 200 -
+2017-11-28 06:55:10,553 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:55:10] "GET /web/image/res.partner/9/image_small HTTP/1.1" 200 -
+2017-11-28 06:55:10,557 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:55:10] "GET /web/image/res.partner/6/image_small HTTP/1.1" 200 -
+2017-11-28 06:55:10,561 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:55:10] "GET /web/image/res.partner/10/image_small HTTP/1.1" 200 -
+2017-11-28 06:55:10,563 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:55:10] "GET /web/image/res.partner/8/image_small HTTP/1.1" 200 -
+2017-11-28 06:55:10,565 1 INFO ? werkzeug: 172.24.0.1 - - [28/Nov/2017 06:55:10] "GET /mail/static/src/img/email_icon.png HTTP/1.1" 200 -
+2017-11-28 06:55:17,090 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:55:17] "POST /web/action/load HTTP/1.1" 200 -
+2017-11-28 06:55:17,181 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:55:17] "POST /web/dataset/call_kw/ir.module.module/load_views HTTP/1.1" 200 -
+2017-11-28 06:55:17,252 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:55:17] "POST /web/dataset/search_read HTTP/1.1" 200 -
+2017-11-28 06:55:32,382 1 INFO odoo11 odoo.addons.base.module.module: ALLOW access to module.button_immediate_install on ['stock'] to user admin #1 via 172.24.0.1
+2017-11-28 06:55:32,382 1 INFO odoo11 odoo.addons.base.module.module: User #1 triggered module installation
+2017-11-28 06:55:32,383 1 INFO odoo11 odoo.addons.base.module.module: ALLOW access to module.button_install on ['stock'] to user admin #1 via 172.24.0.1
+2017-11-28 06:55:32,856 1 INFO odoo11 odoo.modules.loading: loading 1 modules...
+2017-11-28 06:55:32,885 1 INFO odoo11 odoo.modules.loading: 1 modules loaded in 0.03s, 0 queries
+2017-11-28 06:55:32,992 1 INFO odoo11 odoo.modules.loading: updating modules list
+2017-11-28 06:55:32,994 1 INFO odoo11 odoo.addons.base.module.module: ALLOW access to module.update_list on [] to user admin #1 via 172.24.0.1
+2017-11-28 06:55:33,458 1 INFO odoo11 odoo.modules.loading: loading 33 modules...
+2017-11-28 06:55:33,514 1 INFO odoo11 odoo.modules.loading: 33 modules loaded in 0.06s, 0 queries
+2017-11-28 06:55:33,520 1 INFO odoo11 odoo.modules.loading: loading 38 modules...
+2017-11-28 06:55:33,642 1 INFO odoo11 odoo.modules.registry: module barcodes: creating or updating database tables
+2017-11-28 06:55:34,975 1 INFO odoo11 odoo.modules.loading: loading barcodes/data/barcodes_data.xml
+2017-11-28 06:55:35,010 1 INFO odoo11 odoo.modules.loading: loading barcodes/views/barcodes_view.xml
+2017-11-28 06:55:35,196 1 INFO odoo11 odoo.modules.loading: loading barcodes/security/ir.model.access.csv
+2017-11-28 06:55:35,423 1 INFO odoo11 odoo.modules.loading: loading barcodes/views/barcodes_templates.xml
+2017-11-28 06:55:36,028 1 INFO odoo11 odoo.modules.registry: module stock: creating or updating database tables
+2017-11-28 06:55:38,119 1 INFO odoo11 odoo.models: Computing parent left and right for table stock_location...
+2017-11-28 06:55:44,825 1 INFO odoo11 odoo.addons.auth_crypt.models.res_users: Hashing passwords, may be slow for databases with many users...
+2017-11-28 06:55:44,992 1 INFO odoo11 odoo.models: Storing computed values of procurement.rule.route_sequence
+2017-11-28 06:55:45,378 1 INFO odoo11 odoo.models: Storing computed values of stock.inventory.line.product_name
+2017-11-28 06:55:45,379 1 INFO odoo11 odoo.models: Storing computed values of stock.inventory.line.product_code
+2017-11-28 06:55:45,384 1 INFO odoo11 odoo.models: Storing computed values of stock.inventory.line.location_name
+2017-11-28 06:55:45,389 1 INFO odoo11 odoo.models: Storing computed values of stock.inventory.line.prodlot_name
+2017-11-28 06:55:45,393 1 INFO odoo11 odoo.models: Storing computed values of stock.inventory.line.company_id
+2017-11-28 06:55:45,396 1 INFO odoo11 odoo.models: Storing computed values of stock.inventory.line.theoretical_qty
+2017-11-28 06:55:45,459 1 INFO odoo11 odoo.models: Storing computed values of stock.location.complete_name
+2017-11-28 06:55:45,612 1 INFO odoo11 odoo.models: Storing computed values of stock.location.path.route_sequence
+2017-11-28 06:55:45,765 1 INFO odoo11 odoo.models: Storing computed values of stock.move.product_qty
+2017-11-28 06:55:45,783 1 INFO odoo11 odoo.models: Storing computed values of stock.move.scrapped
+2017-11-28 06:55:45,805 1 INFO odoo11 odoo.models: Storing computed values of stock.move.reference
+2017-11-28 06:55:45,895 1 INFO odoo11 odoo.models: Storing computed values of stock.move.line.product_qty
+2017-11-28 06:55:45,908 1 INFO odoo11 odoo.models: Storing computed values of stock.move.line.state
+2017-11-28 06:55:45,916 1 INFO odoo11 odoo.models: Storing computed values of stock.move.line.reference
+2017-11-28 06:55:45,982 1 INFO odoo11 odoo.models: Storing computed values of stock.production.lot.product_uom_id
+2017-11-28 06:55:46,201 1 INFO odoo11 odoo.models: Storing computed values of stock.picking.state
+2017-11-28 06:55:46,204 1 INFO odoo11 odoo.models: Storing computed values of stock.picking.group_id
+2017-11-28 06:55:46,205 1 INFO odoo11 odoo.models: Storing computed values of stock.picking.priority
+2017-11-28 06:55:46,206 1 INFO odoo11 odoo.models: Storing computed values of stock.picking.scheduled_date
+2017-11-28 06:55:46,218 1 INFO odoo11 odoo.models: Storing computed values of stock.picking.activity_date_deadline
+2017-11-28 06:55:46,270 1 INFO odoo11 odoo.models: Storing computed values of stock.quant.company_id
+2017-11-28 06:55:47,382 1 INFO odoo11 odoo.modules.loading: loading stock/security/stock_security.xml
+2017-11-28 06:55:48,934 1 INFO odoo11 odoo.modules.loading: loading stock/security/ir.model.access.csv
+2017-11-28 06:55:49,758 1 INFO odoo11 odoo.modules.loading: loading stock/views/stock_menu_views.xml
+2017-11-28 06:55:49,920 1 INFO odoo11 odoo.modules.loading: loading stock/data/stock_traceability_report_data.xml
+2017-11-28 06:55:50,035 1 INFO odoo11 odoo.modules.loading: loading stock/data/procurement_data.xml
+2017-11-28 06:55:50,054 1 INFO odoo11 odoo.modules.loading: loading stock/report/report_stock_forecast.xml
+2017-11-28 06:55:50,120 1 INFO odoo11 odoo.modules.loading: loading stock/report/stock_report_views.xml
+2017-11-28 06:55:50,165 1 INFO odoo11 odoo.modules.loading: loading stock/report/report_package_barcode.xml
+2017-11-28 06:55:50,200 1 INFO odoo11 odoo.modules.loading: loading stock/report/report_lot_barcode.xml
+2017-11-28 06:55:50,222 1 INFO odoo11 odoo.modules.loading: loading stock/report/report_location_barcode.xml
+2017-11-28 06:55:50,294 1 INFO odoo11 odoo.modules.loading: loading stock/report/report_stockpicking_operations.xml
+2017-11-28 06:55:50,321 1 INFO odoo11 odoo.modules.loading: loading stock/report/report_deliveryslip.xml
+2017-11-28 06:55:50,364 1 INFO odoo11 odoo.modules.loading: loading stock/report/report_stockinventory.xml
+2017-11-28 06:55:50,391 1 INFO odoo11 odoo.modules.loading: loading stock/wizard/stock_change_product_qty_views.xml
+2017-11-28 06:55:50,419 1 INFO odoo11 odoo.modules.loading: loading stock/wizard/stock_picking_return_views.xml
+2017-11-28 06:55:50,450 1 INFO odoo11 odoo.modules.loading: loading stock/wizard/stock_scheduler_compute_views.xml
+2017-11-28 06:55:50,482 1 INFO odoo11 odoo.modules.loading: loading stock/wizard/stock_immediate_transfer_views.xml
+2017-11-28 06:55:50,505 1 INFO odoo11 odoo.modules.loading: loading stock/wizard/stock_backorder_confirmation_views.xml
+2017-11-28 06:55:50,528 1 INFO odoo11 odoo.modules.loading: loading stock/wizard/stock_overprocessed_transfer_views.xml
+2017-11-28 06:55:50,549 1 INFO odoo11 odoo.modules.loading: loading stock/wizard/stock_quantity_history.xml
+2017-11-28 06:55:50,582 1 INFO odoo11 odoo.modules.loading: loading stock/wizard/stock_warn_insufficient_qty_views.xml
+2017-11-28 06:55:50,633 1 INFO odoo11 odoo.modules.loading: loading stock/views/res_partner_views.xml
+2017-11-28 06:55:50,792 1 INFO odoo11 odoo.modules.loading: loading stock/views/product_strategy_views.xml
+2017-11-28 06:55:50,841 1 INFO odoo11 odoo.modules.loading: loading stock/views/stock_incoterms_views.xml
+2017-11-28 06:55:50,906 1 INFO odoo11 odoo.modules.loading: loading stock/views/stock_production_lot_views.xml
+2017-11-28 06:55:50,990 1 INFO odoo11 odoo.modules.loading: loading stock/views/stock_picking_views.xml
+2017-11-28 06:55:51,348 1 INFO odoo11 odoo.modules.loading: loading stock/views/stock_scrap_views.xml
+2017-11-28 06:55:51,479 1 INFO odoo11 odoo.modules.loading: loading stock/views/stock_inventory_views.xml
+2017-11-28 06:55:51,697 1 INFO odoo11 odoo.modules.loading: loading stock/views/stock_quant_views.xml
+2017-11-28 06:55:51,936 1 INFO odoo11 odoo.modules.loading: loading stock/views/stock_location_views.xml
+2017-11-28 06:55:52,347 1 INFO odoo11 odoo.modules.loading: loading stock/views/stock_warehouse_views.xml
+2017-11-28 06:55:52,627 1 INFO odoo11 odoo.modules.loading: loading stock/views/stock_move_line_views.xml
+2017-11-28 06:55:52,745 1 INFO odoo11 odoo.modules.loading: loading stock/views/stock_move_views.xml
+2017-11-28 06:55:53,241 1 INFO odoo11 odoo.modules.loading: loading stock/views/product_views.xml
+2017-11-28 06:55:53,951 1 INFO odoo11 odoo.modules.loading: loading stock/views/res_config_settings_views.xml
+2017-11-28 06:55:54,186 1 INFO odoo11 odoo.modules.loading: loading stock/views/report_stock_traceability.xml
+2017-11-28 06:55:54,324 1 INFO odoo11 odoo.modules.loading: loading stock/views/stock_template.xml
+2017-11-28 06:55:54,557 1 INFO odoo11 odoo.modules.loading: loading stock/views/procurement_views.xml
+2017-11-28 06:55:54,724 1 INFO odoo11 odoo.modules.loading: loading stock/data/default_barcode_patterns.xml
+2017-11-28 06:55:54,755 1 INFO odoo11 odoo.modules.loading: loading stock/data/stock_data.xml
+2017-11-28 06:55:55,128 1 INFO odoo11 odoo.modules.loading: loading stock/data/stock_data.yml
+2017-11-28 06:55:55,188 1 INFO odoo11 odoo.modules.loading: loading stock/data/stock_incoterms_data.xml
+2017-11-28 06:55:55,234 1 INFO odoo11 odoo.modules.loading: loading stock/data/stock_sequence_data.xml
+2017-11-28 06:55:55,277 1 INFO odoo11 odoo.modules.loading: loading stock/data/web_planner_data.xml
+2017-11-28 06:55:55,330 1 INFO odoo11 odoo.modules.loading: loading stock/data/stock_demo_pre.yml
+2017-11-28 06:55:55,405 1 INFO odoo11 odoo.modules.loading: loading stock/data/procurement_demo.xml
+2017-11-28 06:55:55,662 1 INFO odoo11 odoo.modules.loading: loading stock/data/stock_demo.xml
+2017-11-28 06:55:57,176 1 INFO odoo11 odoo.modules.loading: loading stock/data/stock_orderpoint_demo.xml
+2017-11-28 06:55:57,331 1 INFO odoo11 odoo.modules.loading: loading stock/data/stock_orderpoint_demo.yml
+2017-11-28 06:55:57,335 1 INFO odoo11 odoo.modules.loading: loading stock/data/stock_demo.yml
+2017-11-28 06:56:04,755 1 INFO odoo11 odoo.modules.loading: loading stock/data/stock_location_demo_cpu1.xml
+2017-11-28 06:56:04,981 1 INFO odoo11 odoo.modules.loading: loading stock/data/stock_location_demo_cpu3.yml
+2017-11-28 06:56:05,400 1 INFO odoo11 odoo.modules.loading: loading stock/data/stock_quant_demo.xml
+2017-11-28 06:56:08,202 1 INFO odoo11 odoo.modules.registry: module stock_account: creating or updating database tables
+2017-11-28 06:56:09,033 1 INFO odoo11 odoo.modules.loading: loading stock_account/security/stock_account_security.xml
+2017-11-28 06:56:09,236 1 INFO odoo11 odoo.modules.loading: loading stock_account/security/ir.model.access.csv
+2017-11-28 06:56:09,387 1 INFO odoo11 odoo.modules.loading: loading stock_account/wizard/stock_change_standard_price_views.xml
+2017-11-28 06:56:09,429 1 INFO odoo11 odoo.modules.loading: loading stock_account/data/stock_account_data.xml
+2017-11-28 06:56:09,468 1 INFO odoo11 odoo.modules.loading: loading stock_account/views/stock_account_views.xml
+2017-11-28 06:56:09,660 1 INFO odoo11 odoo.modules.loading: loading stock_account/views/res_config_settings_views.xml
+2017-11-28 06:56:09,877 1 INFO odoo11 odoo.modules.loading: loading stock_account/data/product_data.xml
+2017-11-28 06:56:09,896 1 INFO odoo11 odoo.modules.loading: loading stock_account/views/product_views.xml
+2017-11-28 06:56:10,420 1 INFO odoo11 odoo.modules.loading: loading stock_account/data/stock_account_data_post_install.yml
+2017-11-28 06:56:10,629 1 INFO odoo11 odoo.modules.loading: loading stock_account/data/stock_account_demo.yml
+2017-11-28 06:56:11,356 1 INFO odoo11 odoo.modules.registry: module sale_stock: creating or updating database tables
+2017-11-28 06:56:11,819 1 INFO odoo11 odoo.models: Storing computed values of stock.picking.sale_id
+2017-11-28 06:56:11,910 1 INFO odoo11 odoo.modules.loading: loading sale_stock/security/sale_stock_security.xml
+2017-11-28 06:56:12,221 1 INFO odoo11 odoo.modules.loading: loading sale_stock/security/ir.model.access.csv
+2017-11-28 06:56:12,493 1 INFO odoo11 odoo.modules.loading: loading sale_stock/views/sale_order_views.xml
+2017-11-28 06:56:12,636 1 INFO odoo11 odoo.modules.loading: loading sale_stock/views/stock_views.xml
+2017-11-28 06:56:12,991 1 INFO odoo11 odoo.modules.loading: loading sale_stock/views/res_config_settings_views.xml
+2017-11-28 06:56:13,266 1 INFO odoo11 odoo.modules.loading: loading sale_stock/views/account_invoice_views.xml
+2017-11-28 06:56:13,410 1 INFO odoo11 odoo.modules.loading: loading sale_stock/report/sale_order_report_templates.xml
+2017-11-28 06:56:13,467 1 INFO odoo11 odoo.modules.loading: loading sale_stock/report/stock_report_deliveryslip.xml
+2017-11-28 06:56:13,511 1 INFO odoo11 odoo.modules.loading: loading sale_stock/data/sale_stock_data.xml
+2017-11-28 06:56:13,598 1 INFO odoo11 odoo.modules.loading: loading sale_stock/data/sale_order_demo.xml
+2017-11-28 06:56:14,656 1 INFO odoo11 odoo.modules.registry: module procurement_jit: creating or updating database tables
+2017-11-28 06:56:14,972 1 INFO odoo11 odoo.modules.loading: 38 modules loaded in 41.45s, 125 queries
+2017-11-28 06:56:15,535 1 INFO odoo11 odoo.modules.loading: Modules loaded.
+2017-11-28 06:56:15,537 1 INFO odoo11 odoo.models: Computing parent left and right for table ir_ui_menu...
+2017-11-28 06:56:15,605 1 INFO odoo11 odoo.models: Computing parent left and right for table stock_location...
+2017-11-28 06:56:15,660 1 INFO odoo11 odoo.addons.base.module.module: getting next ir.actions.todo()
+2017-11-28 06:56:15,665 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:56:15] "POST /web/dataset/call_button HTTP/1.1" 200 -
+2017-11-28 06:56:15,666 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:56:15] "POST /longpolling/poll HTTP/1.1" 200 -
+2017-11-28 06:56:15,686 1 INFO odoo11 odoo.addons.base.ir.ir_http: Generating routing map
+2017-11-28 06:56:16,495 1 INFO odoo11 odoo.models.unlink: User #1 deleted ir.attachment records with IDs: [486]
+2017-11-28 06:56:17,998 1 INFO odoo11 odoo.models.unlink: User #1 deleted ir.attachment records with IDs: [488, 487]
+2017-11-28 06:56:18,516 1 INFO odoo11 odoo.models.unlink: User #1 deleted ir.attachment records with IDs: [489]
+2017-11-28 06:56:19,164 1 INFO odoo11 odoo.models.unlink: User #1 deleted ir.attachment records with IDs: [490]
+2017-11-28 06:56:19,305 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:56:19] "GET /web HTTP/1.1" 200 -
+2017-11-28 06:56:19,358 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:56:19] "GET /web/content/495-e81211c/web.assets_common.0.css HTTP/1.1" 200 -
+2017-11-28 06:56:19,371 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:56:19] "GET /web/content/496-b7b9124/web.assets_backend.0.css HTTP/1.1" 200 -
+2017-11-28 06:56:19,380 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:56:19] "GET /web/content/498-e81211c/web.assets_common.js HTTP/1.1" 200 -
+2017-11-28 06:56:19,399 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:56:19] "GET /web/content/497-b7b9124/web.assets_backend.1.css HTTP/1.1" 200 -
+2017-11-28 06:56:19,411 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:56:19] "GET /web/content/499-b7b9124/web.assets_backend.js HTTP/1.1" 200 -
+2017-11-28 06:56:19,676 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:56:19] "GET /web/webclient/qweb?mods=web,base,web_editor,web_planner,web_settings_dashboard,bus,web_tour,mail,product,portal,account,account_bank_statement_import,sales_team,sale,account_invoicing,sale_management,auth_signup,payment,payment_transfer,barcodes,stock,l10n_us,iap,web_kanban_gauge,web_diagram,base_import,sale_stock,account_check_printing HTTP/1.1" 200 -
+2017-11-28 06:56:19,754 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:56:19] "POST /web/dataset/call HTTP/1.1" 200 -
+2017-11-28 06:56:19,819 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:56:19] "POST /web/webclient/translations HTTP/1.1" 200 -
+2017-11-28 06:56:19,867 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:56:19] "POST /mail/client_action HTTP/1.1" 200 -
+2017-11-28 06:56:19,882 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:56:19] "POST /web/dataset/call_kw/res.users/activity_user_count HTTP/1.1" 200 -
+2017-11-28 06:56:19,883 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:56:19] "GET /web/image?model=res.users&field=image_small&id=1 HTTP/1.1" 304 -
+2017-11-28 06:56:19,897 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:56:19] "POST /web/dataset/call_kw/res.users/read HTTP/1.1" 200 -
+2017-11-28 06:56:19,917 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:56:19] "POST /web/dataset/call_kw/web.planner/search_read HTTP/1.1" 200 -
+2017-11-28 06:56:19,933 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:56:19] "POST /web/action/load HTTP/1.1" 200 -
+2017-11-28 06:56:19,985 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:56:19] "POST /web/dataset/call_kw/mail.message/load_views HTTP/1.1" 200 -
+2017-11-28 06:56:20,017 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:56:20] "POST /web/dataset/call_kw/ir.filters/get_filters HTTP/1.1" 200 -
+2017-11-28 06:56:20,069 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:56:20] "POST /web/dataset/call_kw/mail.message/message_fetch HTTP/1.1" 200 -
+2017-11-28 06:56:20,383 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:56:20] "GET /web/image/res.partner/8/image_small HTTP/1.1" 200 -
+2017-11-28 06:56:20,386 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:56:20] "GET /web/image/res.partner/6/image_small HTTP/1.1" 200 -
+2017-11-28 06:56:20,389 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:56:20] "GET /web/image/res.partner/9/image_small HTTP/1.1" 200 -
+2017-11-28 06:56:20,393 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:56:20] "GET /web/image/res.partner/10/image_small HTTP/1.1" 200 -
+2017-11-28 06:56:23,635 1 INFO odoo11 odoo.models.unlink: User #1 deleted mail.followers records with IDs: [31]
+2017-11-28 06:56:23,718 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:56:23] "POST /longpolling/poll HTTP/1.1" 200 -
+2017-11-28 06:56:23,718 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:56:23] "POST /longpolling/poll HTTP/1.1" 200 -
+2017-11-28 06:56:23,776 1 INFO odoo11 odoo.models.unlink: User #1 deleted mail.followers records with IDs: [77]
+2017-11-28 06:56:23,812 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:56:23] "POST /longpolling/poll HTTP/1.1" 200 -
+2017-11-28 06:57:13,852 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:57:13] "POST /longpolling/poll HTTP/1.1" 200 -
+2017-11-28 06:58:03,899 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:58:03] "POST /longpolling/poll HTTP/1.1" 200 -
+2017-11-28 06:58:54,004 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:58:54] "POST /longpolling/poll HTTP/1.1" 200 -
+2017-11-28 06:59:44,121 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 06:59:44] "POST /longpolling/poll HTTP/1.1" 200 -
+2017-11-28 07:00:34,235 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 07:00:34] "POST /longpolling/poll HTTP/1.1" 200 -
+2017-11-28 07:01:24,337 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 07:01:24] "POST /longpolling/poll HTTP/1.1" 200 -
+2017-11-28 07:02:14,393 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 07:02:14] "POST /longpolling/poll HTTP/1.1" 200 -
+2017-11-28 07:03:04,479 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 07:03:04] "POST /longpolling/poll HTTP/1.1" 200 -
+2017-11-28 07:03:54,524 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 07:03:54] "POST /longpolling/poll HTTP/1.1" 200 -
+2017-11-28 07:04:44,600 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 07:04:44] "POST /longpolling/poll HTTP/1.1" 200 -
+2017-11-28 07:05:34,656 1 INFO odoo11 werkzeug: 172.24.0.1 - - [28/Nov/2017 07:05:34] "POST /longpolling/poll HTTP/1.1" 200 -
+2018-09-10 19:23:52,730 1 INFO ? odoo: Odoo version 11.0-20180808
+2018-09-10 19:23:52,731 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf
+2018-09-10 19:23:52,731 1 INFO ? odoo: addons paths: ['/var/lib/odoo/addons/11.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons']
+2018-09-10 19:23:52,732 1 INFO ? odoo: database: odoo@db:5432
+2018-09-10 19:23:52,741 1 INFO ? odoo.service.server: Watching addons folder /var/lib/odoo/addons/11.0
+2018-09-10 19:23:52,741 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons
+2018-09-10 19:23:52,742 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons
+2018-09-10 19:23:52,852 1 INFO ? odoo.service.server: AutoReload watcher running
+2018-09-10 19:23:52,869 1 INFO ? odoo.service.server: HTTP service (werkzeug) running on ff9fa38e4b04:8069
+2018-09-10 19:23:53,025 1 INFO ? odoo.addons.base.ir.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf
+2018-09-10 19:25:15,252 1 INFO ? odoo.service.server: Initiating shutdown
+2018-09-10 19:25:15,253 1 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown.
+2018-09-10 19:25:48,016 1 INFO ? odoo: Odoo version 11.0-20180808
+2018-09-10 19:25:48,017 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf
+2018-09-10 19:25:48,017 1 INFO ? odoo: addons paths: ['/var/lib/odoo/addons/11.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons']
+2018-09-10 19:25:48,017 1 INFO ? odoo: database: odoo@db:5432
+2018-09-10 19:25:48,025 1 INFO ? odoo.service.server: Watching addons folder /var/lib/odoo/addons/11.0
+2018-09-10 19:25:48,026 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons
+2018-09-10 19:25:48,026 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons
+2018-09-10 19:25:48,140 1 INFO ? odoo.service.server: AutoReload watcher running
+2018-09-10 19:25:48,142 1 INFO ? odoo.service.server: HTTP service (werkzeug) running on ff9fa38e4b04:8069
+2018-09-10 19:25:48,208 1 INFO ? odoo.addons.base.ir.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf
+2018-09-10 19:28:08,405 1 INFO ? odoo.addons.sms.wizard.send_sms: The `phonenumbers` Python module is not available. Phone number validation will be skipped. Try `pip3 install phonenumbers` to install it.
+2018-09-10 19:28:08,610 1 INFO ? odoo.http: HTTP Configuring static files
+2018-09-10 19:28:08,659 1 INFO ? odoo.http: Generating nondb routing
+2018-09-10 19:28:08,664 1 INFO ? werkzeug: 172.18.0.1 - - [10/Sep/2018 19:28:08] "GET / HTTP/1.1" 200 -
+2018-09-10 19:28:08,733 1 INFO ? werkzeug: 172.18.0.1 - - [10/Sep/2018 19:28:08] "GET /web HTTP/1.1" 303 -
+2018-09-10 19:28:08,811 1 INFO ? werkzeug: 172.18.0.1 - - [10/Sep/2018 19:28:08] "GET /web/database/selector HTTP/1.1" 200 -
+2018-09-10 19:28:08,832 1 INFO ? werkzeug: 172.18.0.1 - - [10/Sep/2018 19:28:08] "GET /web/static/lib/fontawesome/css/font-awesome.css HTTP/1.1" 200 -
+2018-09-10 19:28:08,834 1 INFO ? werkzeug: 172.18.0.1 - - [10/Sep/2018 19:28:08] "GET /web/static/lib/bootstrap/css/bootstrap.css HTTP/1.1" 200 -
+2018-09-10 19:28:08,835 1 INFO ? werkzeug: 172.18.0.1 - - [10/Sep/2018 19:28:08] "GET /web/static/lib/jquery/jquery.js HTTP/1.1" 200 -
+2018-09-10 19:28:08,836 1 INFO ? werkzeug: 172.18.0.1 - - [10/Sep/2018 19:28:08] "GET /web/static/lib/bootstrap/js/dropdown.js HTTP/1.1" 200 -
+2018-09-10 19:28:08,848 1 INFO ? werkzeug: 172.18.0.1 - - [10/Sep/2018 19:28:08] "GET /web/static/lib/bootstrap/js/modal.js HTTP/1.1" 200 -
+2018-09-10 19:28:08,850 1 INFO ? werkzeug: 172.18.0.1 - - [10/Sep/2018 19:28:08] "GET /web/static/lib/bootstrap/js/tooltip.js HTTP/1.1" 200 -
+2018-09-10 19:28:08,866 1 INFO ? werkzeug: 172.18.0.1 - - [10/Sep/2018 19:28:08] "GET /web/static/src/img/logo2.png HTTP/1.1" 200 -
+2018-09-10 19:28:08,933 1 INFO ? werkzeug: 172.18.0.1 - - [10/Sep/2018 19:28:08] "GET /web/static/lib/fontawesome/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1" 200 -
+2018-09-10 19:28:08,988 1 INFO ? werkzeug: 172.18.0.1 - - [10/Sep/2018 19:28:08] "GET /web/static/src/img/favicon.ico HTTP/1.1" 200 -
+2018-09-10 19:33:46,298 1 INFO ? odoo.service.server: Initiating shutdown
+2018-09-10 19:33:46,298 1 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown.

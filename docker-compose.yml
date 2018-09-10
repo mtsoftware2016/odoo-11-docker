@@ -1,0 +1,24 @@
+# MT SOFTWARE
+version: '2'
+services:
+  db:
+    image: postgres:9.5
+    environment:
+      - POSTGRES_PASSWORD=odoo
+      - POSTGRES_USER=odoo
+
+  odoo11:
+    image: odoo:11.0
+    depends_on:
+      - db
+    ports:
+      - "11000:8069"
+    tty: true
+    command: -- --dev=reload
+#    command: odoo scaffold /mnt/extra-addons/test_module
+    volumes:
+      - ./o_addons:/mnt/extra-addons
+      - ./o_etc:/etc/odoo
+volumes:
+  db:
+  odoo11:
